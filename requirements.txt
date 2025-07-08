@@ -1,0 +1,7 @@
+deepeval==3.0.8
+instructor==1.8.3
+litellm==1.72.2
+pydantic==2.11.5
+python-dotenv==1.1.0
+Requests==2.32.4
+tqdm==4.67.1

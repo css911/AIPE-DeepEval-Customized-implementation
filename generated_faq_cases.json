@@ -1,0 +1,3362 @@
+{
+  "EHS": {
+    "forms": {
+      "SharePoint Access": {
+        "description": "what's covered is accessing and signing into UF's SharePoint Online platform",
+        "questions": [
+          "How do I sign in to UF's SharePoint Online platform?",
+          "What is the correct format for entering my Gatorlink user ID?",
+          "What happens after I enter my Microsoft information?",
+          "How do I access EH&S forms on SharePoint Online?"
+        ]
+      },
+      "Gatorlink Authentication": {
+        "description": "what's covered is authenticating with Gatorlink credentials",
+        "questions": [
+          "What is my Gatorlink user ID format for signing in?",
+          "How do I sign in with my Gatorlink credentials on the UF Authentication page?",
+          "What if I forget my Gatorlink user ID or password?"
+        ]
+      },
+      "EH&S Forms": {
+        "description": "what's covered is accessing and using EH&S forms on the website",
+        "questions": [
+          "Where can I find EH&S forms on the website?",
+          "How do I access EH&S forms on SharePoint Online?",
+          "What types of EH&S forms are available on the website?"
+        ]
+      }
+    },
+    "about": {
+      "Contact Information": {
+        "description": "Details about how to get in touch with the Environmental Health & Safety division",
+        "questions": [
+          "What is the phone number for the EHS office?",
+          "What are the office hours for the EHS division?",
+          "How can I contact the EHS division by fax?",
+          "What is the phone number of the Central Offices?",
+          "What is the address of the Radiation Control Room in the Dental Science Building?",
+          "How can I contact the Pest Management department?"
+        ]
+      },
+      "Laboratory Safety": {
+        "description": "Guidelines and protocols for ensuring safety in laboratory settings",
+        "questions": [
+          "What safety protocols should I follow when working in a laboratory?",
+          "How do I report a laboratory accident or incident?",
+          "What training is required for laboratory workers?",
+          "What are the procedures for handling hazardous materials in a laboratory setting?",
+          "What training is required for working with chemicals in a laboratory?",
+          "What are the laboratory safety protocols I need to follow in my research project?",
+          "How do I properly dispose of hazardous waste in my laboratory?",
+          "What training is required for working with hazardous materials in a laboratory?",
+          "What safety protocols should I follow when working with radiation in a laboratory?"
+        ]
+      },
+      "Occupational Safety": {
+        "description": "Policies and procedures for maintaining a safe work environment",
+        "questions": [
+          "What are the university's policies on occupational safety?",
+          "How do I report a workplace hazard or concern?",
+          "What safety training is available for university employees?"
+        ]
+      },
+      "Facility Support Services": {
+        "description": "Services provided to support the maintenance and upkeep of university facilities",
+        "questions": [
+          "What services does the EHS division provide for facility support?",
+          "How do I request assistance with a facility-related issue?",
+          "What are the procedures for reporting a facility maintenance concern?",
+          "What services are available for maintaining and inspecting university facilities?",
+          "How do I report a facility-related hazard or concern?",
+          "What are the university's policies and procedures for managing asbestos and indoor air quality?"
+        ]
+      },
+      "Risk Management": {
+        "description": "Strategies and procedures for identifying and mitigating risks to the university community",
+        "questions": [
+          "What are the university's risk management policies and procedures?",
+          "How do I report a potential risk or hazard?",
+          "What training is available on risk management and assessment?"
+        ]
+      },
+      "Occupational Safety and Risk Management": {
+        "description": "Policies and procedures for managing workplace risks and ensuring employee safety",
+        "questions": [
+          "What are the university's policies on workplace ergonomics and injury prevention?",
+          "How do I report a workplace hazard or concern?",
+          "What training is available for employees on occupational safety and risk management?"
+        ]
+      },
+      "Research Services and Support": {
+        "description": "Resources and support for researchers, including biosafety and radiation safety programs",
+        "questions": [
+          "What services are available to support researchers in maintaining a safe and healthy work environment?",
+          "How do I obtain approval for a research project involving hazardous materials or procedures?",
+          "What training is required for researchers working with biological or radioactive materials?"
+        ]
+      },
+      "Environmental Health and Safety Regulations": {
+        "description": "Information on local, state, and federal regulations related to environmental health and safety",
+        "questions": [
+          "What are the university's policies and procedures for complying with environmental health and safety regulations?",
+          "How do I determine which regulations apply to my research or work activities?",
+          "What are the consequences of non-compliance with environmental health and safety regulations?"
+        ]
+      },
+      "Biosafety": {
+        "description": "Regulations and guidelines for working with biological agents and materials",
+        "questions": [
+          "What are the biosafety level requirements for my research project?",
+          "How do I obtain approval for working with recombinant DNA?",
+          "What are the procedures for handling and storing biological agents?"
+        ]
+      },
+      "Radiation Safety": {
+        "description": "Guidelines and protocols for safely working with radiation and radioactive materials",
+        "questions": [
+          "What are the radiation safety protocols I need to follow when working with radioactive materials?",
+          "How do I obtain a radiation safety training certificate?",
+          "What are the procedures for handling and storing radioactive waste?"
+        ]
+      },
+      "Hazardous Waste Management": {
+        "description": "Procedures and guidelines for managing and disposing of hazardous waste",
+        "questions": [
+          "How do I properly dispose of hazardous waste from my research project?",
+          "What are the regulations for storing and transporting hazardous materials?",
+          "How do I obtain a hazardous waste management training certificate?"
+        ]
+      },
+      "Clinical Safety": {
+        "description": "Guidelines and protocols for ensuring safety in clinical research settings",
+        "questions": [
+          "What are the clinical safety protocols I need to follow in my research project?",
+          "How do I obtain approval for conducting clinical trials?",
+          "What are the procedures for handling and storing clinical samples?"
+        ]
+      },
+      "Animal Research Safety": {
+        "description": "Regulations and guidelines for safely working with animals in research settings",
+        "questions": [
+          "What are the animal research safety protocols I need to follow in my research project?",
+          "How do I obtain approval for working with animals in research?",
+          "What are the procedures for handling and caring for research animals?"
+        ]
+      },
+      "Laser Safety": {
+        "description": "Guidelines and protocols for safely working with lasers and laser equipment",
+        "questions": [
+          "What are the laser safety protocols I need to follow when working with laser equipment?",
+          "How do I obtain a laser safety training certificate?",
+          "What are the procedures for handling and storing laser equipment?"
+        ]
+      },
+      "Facilities and Services": {
+        "description": "Information about Environmental Health And Safety facilities, including waste management and fire equipment services",
+        "questions": [
+          "What services are offered by the Waste Management Facility?",
+          "How can I request fire equipment services for my building?",
+          "What are the hours of operation for the Pest Management department?"
+        ]
+      },
+      "Radiation Control": {
+        "description": "Regulations, procedures, and guidelines for radiation control and safety",
+        "questions": [
+          "What are the radiation safety guidelines for working with radioactive materials?",
+          "How do I obtain a radiation permit?",
+          "What are the consequences of violating radiation safety protocols?"
+        ]
+      }
+    },
+    "departments": {
+      "Laboratory Safety": {
+        "description": "Guidelines and protocols for ensuring a safe working environment in laboratories and research spaces",
+        "questions": [
+          "What are the laboratory safety protocols I need to follow in my research space?",
+          "How do I report a laboratory accident or incident?",
+          "What training is required for working with hazardous materials in the lab?",
+          "What are the general laboratory safety guidelines for working with chemicals and animals?",
+          "How do I ensure a safe working environment for research personnel and animal care staff?",
+          "What are the responsibilities of the investigator in maintaining laboratory safety?",
+          "What are the high-risk procedures when handling acute toxins?",
+          "How can I minimize the risks associated with aerosol or splatter generating procedures?",
+          "What are the requirements for registering research involving acute toxins?",
+          "What are the general lab safety practices that I need to follow?",
+          "How often are laboratory safety surveys conducted?",
+          "What equipment is required for a safe laboratory setting?",
+          "What safety training is required for working in a wet lab space?",
+          "How do I obtain chemical safety data sheets (SDS) for the chemicals in my lab?",
+          "What are the procedures for handling chemical spills in the lab?",
+          "What are the safety precautions for handling corrosive chemicals?",
+          "How should chemical waste be disposed of in a laboratory?",
+          "What are the guidelines for storing chemicals in a fume hood?",
+          "What are the prohibited activities for minors in University of Florida research spaces?",
+          "What safety training is required for minors working in laboratories?",
+          "How can I ensure compliance with UF's safety programs and regulations in my laboratory?",
+          "What are the safety protocols for handling chemicals in a laboratory setting?",
+          "How should I store chemicals in my laboratory to minimize hazards?",
+          "What are the procedures for responding to a chemical spill in a laboratory?",
+          "What are the proper procedures for handling hazardous materials in a laboratory?",
+          "How often should laboratory ventilation systems be inspected and maintained?",
+          "What are the consequences of ignoring a fume hood alarm?",
+          "What are the general laboratory safety rules I need to follow?",
+          "How do I report a lab accident or incident?",
+          "What personal protective equipment is required for lab work?",
+          "What are the general rules for managing hazardous wastes in a laboratory?",
+          "How do I handle a spill of a hazardous chemical in the lab?",
+          "What are the consequences of not following laboratory safety protocols?",
+          "What are the safety protocols for handling hazardous materials in a laboratory?",
+          "How do I properly dispose of hazardous waste generated in a laboratory?",
+          "What are the emergency procedures in case of a laboratory accident?",
+          "What laboratory techniques are covered in the Radioisotope Laboratory Techniques sessions?",
+          "How do I ensure radiation safety in a laboratory setting?",
+          "What are the fundamental radiation concepts that I need to understand for laboratory work?",
+          "What are the key factors to consider when setting up a laboratory workspace to prevent ergonomic injuries?",
+          "How can I properly adjust my chair and workstation to maintain good posture while working in a lab?",
+          "What are some tips for reducing repetitive motion injuries when working with pipettes or microscopes?",
+          "What safety protocols should I follow when working with hazardous materials in a laboratory?",
+          "How can I ensure compliance with University health and safety policies in my laboratory?",
+          "What training is available for laboratory safety and industrial hygiene?"
+        ]
+      },
+      "Regulatory Compliance": {
+        "description": "Information and resources for complying with regulations and standards in research and laboratory settings",
+        "questions": [
+          "What are the regulatory requirements for conducting research with biological agents?",
+          "How do I ensure my laboratory is compliant with OSHA standards?",
+          "What are the procedures for obtaining necessary permits and approvals for research projects?",
+          "What are the regulations regarding asbestos oversight on campus?",
+          "How do I ensure compliance with scientific diving safety protocols?",
+          "What are the guidelines for drone operations on university property?",
+          "What federal agencies regulate research with transgenic plants and plant-associated organisms?",
+          "How do I determine if my plant research is subject to state and federal regulations?",
+          "What are the guidelines for the movement and use of exotic or potentially harmful plant-associated arthropods?",
+          "What laws and regulations govern the shipping and storage of human tissues?",
+          "How do I ensure compliance with federal and state regulations for human tissue shipping?",
+          "What are the consequences of non-compliance with human tissue shipping regulations?",
+          "What federal regulations apply to minors working in University of Florida research spaces?",
+          "How can I ensure compliance with UF's Youth Compliance Services supervision requirements?",
+          "What are the consequences of non-compliance with laboratory safety regulations?",
+          "What are the relevant regulations and standards for lab safety?",
+          "How do I ensure compliance with EH&S regulations?",
+          "What are the consequences of non-compliance with lab safety regulations?",
+          "What regulatory requirements do I need to be aware of in my lab?",
+          "How can I ensure my lab is complying with all relevant safety regulations?",
+          "Are there any resources or support available to help me understand and meet regulatory requirements?",
+          "What are the federal and state regulations governing hazardous waste management?",
+          "How often are hazardous waste determinations inspected by regulators?",
+          "What are the penalties for non-compliance with hazardous waste regulations?",
+          "What regulations apply to shipping hazardous materials internationally?",
+          "Are there any specific hazard classes that require special handling or documentation?",
+          "How do I ensure that my shipment is in compliance with all relevant laws and regulations?",
+          "What are the regulations for accumulating hazardous waste at off-campus facilities?",
+          "How do I ensure compliance with land disposal restrictions?",
+          "What are the consequences of non-compliance with hazardous waste regulations?",
+          "What federal regulations apply to diving operations at the University of Florida?",
+          "How does the University of Florida ensure compliance with US Coast Guard regulations for boating operations?",
+          "What are the consequences of violating OSHA or US Coast Guard regulations during University of Florida diving or boating operations?",
+          "What are the regulations for operating a drone commercially?",
+          "How can I ensure I am complying with FAA Part 107 regulations?",
+          "Can EH&S help with evaluating aircraft for regulatory compliance?",
+          "What are the relevant regulations and standards for asbestos labeling and handling?",
+          "How do I ensure compliance with EH&S guidelines for asbestos identification and notification?",
+          "What are the consequences of non-compliance with asbestos regulations?"
+        ]
+      },
+      "Hazardous Waste Management": {
+        "description": "Procedures and guidelines for handling, storing, and disposing of hazardous waste in research and laboratory settings",
+        "questions": [
+          "How do I properly dispose of hazardous waste from my laboratory?",
+          "What are the procedures for requesting hazardous waste pickup?",
+          "How do I label and store hazardous materials in my laboratory?",
+          "What are the procedures for disposing of chemical waste in my laboratory?",
+          "How do I request a pickup for hazardous waste at my location?",
+          "What training is required for handling radioactive waste on campus?",
+          "What are the requirements for managing hazardous materials in construction and demolition waste?",
+          "How do I properly dispose of hazardous waste in a construction project?",
+          "What are the consequences of not managing hazardous waste properly?",
+          "What are the regulations for disposing of hazardous waste in my shop?",
+          "How do I properly label and store hazardous waste containers?",
+          "What are the consequences of non-compliance with hazardous waste management regulations?",
+          "What are the responsibilities of off-campus faculty and staff in managing hazardous waste?",
+          "How do I determine the generator status of my off-campus facility?",
+          "What are the regulatory requirements for Large Quantity Generators?"
+        ]
+      },
+      "Research Space Setup and Closeout": {
+        "description": "Guidelines and procedures for setting up and closing out research spaces and laboratories",
+        "questions": [
+          "What are the steps for setting up a new research laboratory?",
+          "How do I close out my research space when a project is completed?",
+          "What are the procedures for decontaminating equipment and surfaces in a research laboratory?"
+        ]
+      },
+      "Incident Reporting and Response": {
+        "description": "Procedures and guidelines for reporting and responding to incidents and accidents in research and laboratory settings",
+        "questions": [
+          "How do I report an incident or accident in my research laboratory?",
+          "What are the procedures for responding to a chemical spill in the laboratory?",
+          "How do I access incident reporting forms and resources?"
+        ]
+      },
+      "Occupational Safety": {
+        "description": "Information and guidance on workplace safety protocols and procedures",
+        "questions": [
+          "What safety training is required for new employees?",
+          "How do I report a workplace accident or injury?",
+          "What are the procedures for handling hazardous materials?",
+          "What occupational safety programs are available to protect workers from hazards?",
+          "How can I report a workplace safety concern or hazard?",
+          "What resources are available to help me control hazards in my work environment?"
+        ]
+      },
+      "Risk Management": {
+        "description": "Strategies and programs for mitigating and managing risk across the university",
+        "questions": [
+          "What types of insurance coverage are available for university events?",
+          "How do I submit a claim for damage to university property?",
+          "What are the guidelines for fleet vehicle usage and safety?"
+        ]
+      },
+      "Health and Wellness": {
+        "description": "Programs and services promoting employee health and well-being",
+        "questions": [
+          "What occupational medicine programs are available to employees?",
+          "How do I schedule an ergonomic assessment for my workspace?",
+          "What resources are available for managing work-related stress?"
+        ]
+      },
+      "Emergency Preparedness": {
+        "description": "Plans and procedures for responding to emergencies and disasters",
+        "questions": [
+          "What is the university's emergency response plan in case of a natural disaster?",
+          "How do I sign up for emergency alerts and notifications?",
+          "What are the procedures for evacuating a building in case of an emergency?"
+        ]
+      },
+      "Animal Contact Program": {
+        "description": "what's covered under the University of Florida's Animal Contact Medical Monitoring Program",
+        "questions": [
+          "What is the purpose of the Animal Contact Medical Monitoring Program?",
+          "Who is required to enroll in the Animal Contact Program?",
+          "What are the program requirements for individuals handling live animals?"
+        ]
+      },
+      "Program Enrollment": {
+        "description": "enrollment process and requirements for the Animal Contact Program",
+        "questions": [
+          "How do I enroll in the Animal Contact Program?",
+          "What documents are required for program enrollment?",
+          "What happens after I enroll in the Animal Contact Program?"
+        ]
+      },
+      "Medical Requirements": {
+        "description": "medical consultation, immunization, and screening requirements for program participants",
+        "questions": [
+          "What medical consultations are required for program participants?",
+          "What immunizations are required for individuals handling certain animals?",
+          "How often do I need to get screened for tuberculosis?"
+        ]
+      },
+      "Facility Access": {
+        "description": "access requirements for animal facilities and vivaria",
+        "questions": [
+          "What are the requirements for accessing Animal Care Services managed facilities?",
+          "Do I need to enroll in the Animal Contact Program to access animal facilities?",
+          "What are the rules for visitors entering ACS-managed facilities?"
+        ]
+      },
+      "Specialized Areas": {
+        "description": "additional requirements for specialized areas such as ABSL3 and biomedical research areas",
+        "questions": [
+          "What are the requirements for working in Animal Biosafety Level 3 areas?",
+          "Do I need special protection when working with sheep in biomedical research areas?",
+          "What are the rules for accessing areas with specific health risks?"
+        ]
+      },
+      "Visitor Policies": {
+        "description": "policies and procedures for visitors to animal facilities and vivaria",
+        "questions": [
+          "Can I visit animal facilities without enrolling in the Animal Contact Program?",
+          "What forms do I need to sign to visit animal research areas?",
+          "Do I need to be escorted at all times when visiting animal facilities?",
+          "What are the requirements for receiving or hosting a visitor in a University of Florida research space?",
+          "How often can visitors attend a laboratory or research space?",
+          "What safety training is required for visitors in University of Florida laboratories?"
+        ]
+      },
+      "Animal Research Safety": {
+        "description": "Guidelines and protocols for ensuring safety while working with animals in research environments",
+        "questions": [
+          "What safety protocols should I follow when handling animals in a research setting?",
+          "How do I report an incident involving an animal in a research lab?",
+          "What training is required for staff working with animals in research?",
+          "What are the responsibilities of an investigator in ensuring safe working conditions for study staff and animal husbandry staff?",
+          "How do I properly use personal protective equipment (PPE) when working with animals?",
+          "What are the guidelines for writing SOPs for the use of hazardous materials in rodents?"
+        ]
+      },
+      "Protocol Review Process": {
+        "description": "Procedures and guidelines for reviewing and approving research protocols involving animals",
+        "questions": [
+          "What is the protocol review process for animal research at UF?",
+          "How do I submit a protocol for review by the IACUC?",
+          "What are the safety-related concerns that are addressed during the protocol review process?"
+        ]
+      },
+      "Animal Contact and Allergens": {
+        "description": "Information and guidelines for preventing and managing allergies and zoonoses related to animal contact",
+        "questions": [
+          "What are the common allergens and zoonoses associated with animal contact?",
+          "How can I prevent allergic reactions when working with animals?",
+          "What procedures should I follow if I have been exposed to an animal allergen or zoonosis?"
+        ]
+      },
+      "Biological and Chemical Materials": {
+        "description": "Guidelines and safety protocols for working with biological and chemical materials in animal research",
+        "questions": [
+          "What safety precautions should I take when working with biological materials in animals?",
+          "How do I handle and dispose of chemical compounds used in animal research?",
+          "What are the risks associated with using inhalation anesthetic gases and compressed gases in animal research?"
+        ]
+      },
+      "Standard Operating Procedures and Engineering Controls": {
+        "description": "Standard procedures and engineering controls for ensuring safety in animal research environments",
+        "questions": [
+          "What are the standard operating procedures for working with animals in research labs?",
+          "How do I implement engineering controls to minimize risks in animal research environments?",
+          "What are the guidelines for using personal protective equipment in animal research settings?"
+        ]
+      },
+      "Wildlife Field Research": {
+        "description": "Guidelines and safety protocols for conducting field research with wildlife",
+        "questions": [
+          "What safety protocols should I follow when conducting field research with wildlife?",
+          "How do I obtain approval for conducting wildlife field research?",
+          "What are the risks associated with handling and working with wildlife in field research settings?"
+        ]
+      },
+      "Waste Anesthetic Gases": {
+        "description": "Information and safety guidelines for handling waste anesthetic gases in medical and surgical procedures",
+        "questions": [
+          "What are the potential health risks of exposure to waste anesthetic gases?",
+          "How can I minimize exposure to waste anesthetic gases in the workplace?",
+          "What symptoms should I look out for if I've been exposed to waste anesthetic gases?"
+        ]
+      },
+      "Safety Considerations": {
+        "description": "Precautions and safety measures for working with anesthetic gases, including exposure limits and risks for pregnant staff",
+        "questions": [
+          "Are there any safe exposure limits for waste anesthetic gases?",
+          "What should I do if I suspect I've been exposed to waste anesthetic gases while pregnant?",
+          "How can I determine if I'm being exposed to waste anesthetic gases?"
+        ]
+      },
+      "Training and Resources": {
+        "description": "Available training and resources for working with anesthetic gases, including online courses and fact sheets",
+        "questions": [
+          "What training is recommended for staff working with anesthetic gases?",
+          "Where can I find information on the safe handling of compressed gas cylinders?",
+          "How can I access the Waste Anesthetic Gas Fact Sheet?",
+          "What training programs are available for drone operators on campus?",
+          "Where can I find resources and guides for safe drone operation?",
+          "How do I contact the UF Office of Unmanned Aircraft Systems for support or questions?"
+        ]
+      },
+      "Compressed Gas Cylinders": {
+        "description": "Rules and guidelines for the safe handling and storage of compressed gas cylinders",
+        "questions": [
+          "What are the rules for handling compressed gas cylinders in the workplace?",
+          "How should I store compressed gas cylinders?",
+          "What safety precautions should I take when working with compressed gas cylinders?"
+        ]
+      },
+      "Chemical Hygiene Program": {
+        "description": "Guidelines and procedures for handling chemicals in laboratory settings, including animal research areas",
+        "questions": [
+          "What are the requirements for working with chemicals in laboratory settings at the University of Florida?",
+          "How do I report the use of chemical hazards in animals in my IACUC protocol?",
+          "What is the role of the investigator in notifying research personnel of chemical hazards?"
+        ]
+      },
+      "Chemical Hazards": {
+        "description": "Risks and precautions associated with working with chemicals in animal research",
+        "questions": [
+          "What are the occupational health risks associated with working with chemicals in animal research?",
+          "How do I conduct a risk assessment for chemical hazards in my research protocol?",
+          "What information should be included in a Chemicals in Animals SOP?"
+        ]
+      },
+      "Novel Compounds": {
+        "description": "Guidelines for working with new or untested compounds in animal research",
+        "questions": [
+          "What information should be included in an IACUC protocol for novel compounds?",
+          "How do I determine the toxicity and pharmacokinetic data for a novel compound?",
+          "What are the requirements for describing the parent or closely related compound(s) in an IACUC protocol?"
+        ]
+      },
+      "Nanoparticles": {
+        "description": "Special considerations and precautions for working with nanoparticles in animal research",
+        "questions": [
+          "What are the additional considerations for using nanoparticles in animals?",
+          "How do I outline appropriate precautions for nanoparticle use in my IACUC protocol?",
+          "Where can I find more information on nanoparticle safety guidance?"
+        ]
+      },
+      "Biohazard Project Registration": {
+        "description": "Registration and approval process for research projects involving biohazards",
+        "questions": [
+          "How do I register a research project involving biohazards?",
+          "What is the approval process for biohazard project registration?",
+          "What information is required for biohazard project registration?"
+        ]
+      },
+      "Animal Handling and Safety": {
+        "description": "Guidelines and protocols for handling animals exposed to biological materials",
+        "questions": [
+          "What are the safety protocols for handling animals exposed to biohazards?",
+          "How do I ensure safe handling of animals in my research project?",
+          "What training is required for handling animals exposed to biological materials?"
+        ]
+      },
+      "IACUC Protocol Review": {
+        "description": "Review and approval process for IACUC protocols involving biohazards",
+        "questions": [
+          "How do I submit an IACUC protocol for review involving biohazards?",
+          "What is the review process for IACUC protocols involving biohazards?",
+          "What are the requirements for IACUC protocol approval involving biohazards?"
+        ]
+      },
+      "Biological Materials and Toxins": {
+        "description": "Information and guidelines on working with biological materials and toxins in animals",
+        "questions": [
+          "What are the guidelines for working with acute toxins in animals?",
+          "How do I handle viral vectors in animals?",
+          "What are the safety protocols for working with bloodborne pathogens in animals?"
+        ]
+      },
+      "Compliance and Policy": {
+        "description": "Policies and procedures for compliance with regulations and guidelines",
+        "questions": [
+          "What are the policies for working with human products in animals?",
+          "How do I enroll in the Bloodborne Pathogen program?",
+          "What is the Exposure Control Plan and how do I access it?"
+        ]
+      },
+      "Autoclave Safety": {
+        "description": "Guidelines and precautions for safe handling and operation of autoclaves",
+        "questions": [
+          "What are the potential hazards when handling hot sterilized items from an autoclave?",
+          "How can I prevent burns when removing items from an autoclave?",
+          "What personal protective equipment should I wear when loading or unloading an autoclave?"
+        ]
+      },
+      "Autoclave Operation": {
+        "description": "Proper procedures for operating an autoclave, including preparation and loading of items",
+        "questions": [
+          "How should I prepare biohazardous waste for autoclaving?",
+          "What type of containers should I use for autoclaving liquids?",
+          "Can I autoclave sealed containers or bags?"
+        ]
+      },
+      "Autoclave Maintenance and Troubleshooting": {
+        "description": "Guidelines for maintaining and troubleshooting autoclaves, including emergency procedures",
+        "questions": [
+          "What should I do if the autoclave is not working properly?",
+          "How do I report a mechanical problem with the autoclave?",
+          "What are the emergency contact numbers for autoclave-related issues?"
+        ]
+      },
+      "Autoclave Training and Documentation": {
+        "description": "Information on training and documentation requirements for autoclave use",
+        "questions": [
+          "Is training required to use an autoclave?",
+          "How do I schedule a training session for autoclave use?",
+          "What information should I record in the autoclave logbook?"
+        ]
+      },
+      "Autoclave Sterilization Times and Guidelines": {
+        "description": "Recommended sterilization times and guidelines for different types of items",
+        "questions": [
+          "What are the recommended sterilization times for biohazardous waste?",
+          "How long should I autoclave non-porous items, such as glassware or instruments?",
+          "Can I autoclave liquids, and if so, what are the guidelines?"
+        ]
+      },
+      "Acute Toxin Registration": {
+        "description": "Process and requirements for registering research involving acute toxins",
+        "questions": [
+          "What toxins require registration with the Biosafety Office?",
+          "How do I register my research involving acute toxins?",
+          "What documentation is required for registering acute toxin research?"
+        ]
+      },
+      "Export Controlled Toxins": {
+        "description": "Regulations and procedures for handling export-controlled biological toxins",
+        "questions": [
+          "Which biological toxins are restricted for export by the U.S. Department of Commerce?",
+          "How do I obtain an export license for shipping toxins out of the U.S.?",
+          "What are the requirements for registering export-controlled toxins?"
+        ]
+      },
+      "Select Agent Toxins": {
+        "description": "Regulations and procedures for handling select agent toxins",
+        "questions": [
+          "What are select agent toxins and how are they regulated?",
+          "How do I register my research involving select agent toxins?",
+          "What are the requirements for transferring select agent toxins to another investigator?"
+        ]
+      },
+      "Biosafety Office Procedures": {
+        "description": "Procedures and contact information for the Biosafety Office",
+        "questions": [
+          "How do I contact the Biosafety Office for questions or concerns?",
+          "What are the procedures for submitting lab-specific acute toxin Standard Operating Procedures (SOPs)?",
+          "How do I obtain approval from the Biosafety Office for my research involving acute toxins?",
+          "Who do I contact to discuss the feasibility of working with select agents or toxins?",
+          "How long does the approval process take for working with select agents?",
+          "What is the process for registering a project with the Biosafety Office?"
+        ]
+      },
+      "Bloodborne Pathogen Program": {
+        "description": "Information and guidelines for the University of Florida's Bloodborne Pathogen Program, including training, vaccination, and exposure protocols",
+        "questions": [
+          "What are the requirements for participating in the Bloodborne Pathogen Program at the University of Florida?",
+          "How do I enroll in the Bloodborne Pathogen Program as a new employee?",
+          "What are the steps to follow in case of exposure to blood or other potentially infectious materials?"
+        ]
+      },
+      "Exposure Control Plan": {
+        "description": "Development, review, and implementation of site-specific plans to minimize occupational exposure to bloodborne pathogens",
+        "questions": [
+          "What is an Exposure Control Plan and how is it used to prevent occupational exposure to bloodborne pathogens?",
+          "How often is the Exposure Control Plan reviewed and updated?",
+          "What are the key components of a site-specific Exposure Control Plan?",
+          "How is the site-specific Exposure Control Plan developed and reviewed?",
+          "What are the key components of an effective Exposure Control Plan?",
+          "Who is responsible for ensuring the Exposure Control Plan is up-to-date?"
+        ]
+      },
+      "Training and Vaccination": {
+        "description": "Annual training and vaccination requirements for employees with occupational exposure to bloodborne pathogens",
+        "questions": [
+          "What training is required for employees with occupational exposure to bloodborne pathogens?",
+          "How do I complete the hepatitis B vaccination series as part of the Bloodborne Pathogen Program?",
+          "What are the consequences of not completing annual Bloodborne Pathogen training?"
+        ]
+      },
+      "Exposure Incident Protocol": {
+        "description": "Procedures to follow in case of exposure to blood or other potentially infectious materials, including reporting and post-exposure care",
+        "questions": [
+          "What are the steps to follow immediately after exposure to blood or other potentially infectious materials?",
+          "How do I report an exposure incident to the University of Florida?",
+          "What post-exposure health care services are available to employees?"
+        ]
+      },
+      "Program Compliance": {
+        "description": "Monitoring and ensuring compliance with the Bloodborne Pathogen Program requirements, including annual training and vaccination",
+        "questions": [
+          "How are individual departments monitored for compliance with the Bloodborne Pathogen Program?",
+          "What are the consequences of non-compliance with the Bloodborne Pathogen Program requirements?",
+          "How do I verify that I have completed all required training and vaccination as part of the Bloodborne Pathogen Program?"
+        ]
+      },
+      "Biosafety": {
+        "description": "Guidelines and regulations for handling biohazards and conducting safe biological research",
+        "questions": [
+          "What are the requirements for working with biohazards in a laboratory?",
+          "How do I obtain a biohazard project registration?",
+          "What are the procedures for handling biological spills?",
+          "What are the biosafety levels and how do they apply to my research?",
+          "How do I obtain approval for working with biological agents?",
+          "What are the procedures for spills or exposures to biological agents?"
+        ]
+      },
+      "Biological Waste Management": {
+        "description": "Proper disposal and handling of biological waste in laboratories",
+        "questions": [
+          "How do I dispose of biological waste in my laboratory?",
+          "What are the procedures for using autoclaves for biological waste disposal?",
+          "Are there any specific guidelines for handling sharps and other biohazardous materials?"
+        ]
+      },
+      "Occupational Health and Medical Monitoring": {
+        "description": "Health and medical monitoring requirements for research personnel working with biohazards",
+        "questions": [
+          "What are the vaccination requirements for research personnel working with biohazards?",
+          "How do I report a potential exposure to a biohazard?",
+          "What medical monitoring is required for personnel working with biohazards?"
+        ]
+      },
+      "Regulated Research and Compliance": {
+        "description": "Compliance with regulations and guidelines for conducting research with biohazards",
+        "questions": [
+          "What are the regulations for working with select agents and toxins?",
+          "How do I register a project involving recombinant or synthetic nucleic acids?",
+          "What are the requirements for shipping and transporting biological materials?"
+        ]
+      },
+      "Wildlife Field Research Safety": {
+        "description": "what's covered in safety plans and protocols for conducting field research with wildlife",
+        "questions": [
+          "What are the necessary precautions for minimizing zoonotic disease risks during wildlife field research?",
+          "How do I develop a Wildlife Field Safety Plan for my research project?",
+          "What safety equipment and PPE are required for capturing and handling animals in the field?"
+        ]
+      },
+      "Zoonotic Diseases and Hazards": {
+        "description": "information on diseases and hazards associated with wildlife field research",
+        "questions": [
+          "What are the most common zoonotic diseases that can be transmitted during wildlife field research?",
+          "How can I protect myself from animal bites and scratches during field work?",
+          "What are the risks of exposure to exotic or poisonous plants in the field?"
+        ]
+      },
+      "Safety Protocols and Procedures": {
+        "description": "guidelines for safe work practices and containment procedures during wildlife field research",
+        "questions": [
+          "What safety protocols should I follow when handling animals or inoculating them with substances?",
+          "How can I minimize the risk of needlesticks and other accidents during field work?",
+          "What are the best practices for working with venomous animals or insects in the field?"
+        ]
+      },
+      "Regulatory Compliance and Resources": {
+        "description": "information on regulations, guidelines, and resources for wildlife field research safety",
+        "questions": [
+          "What are the regulatory requirements for conducting wildlife field research with potential zoonotic disease risks?",
+          "Where can I find resources and guidelines for developing a Wildlife Field Safety Plan?",
+          "How do I ensure compliance with IACUC protocols and safety standards during field research?"
+        ]
+      },
+      "Biosafety Principles": {
+        "description": "Applying principles to protect the natural and agricultural environment from unintended consequences of plant research",
+        "questions": [
+          "What measures can I take to prevent the unintentional transfer of plant genes to other plants?",
+          "How can I control the spread of pathogens or noxious weeds to crops or native vegetation?",
+          "What are the best practices for avoiding the introduction of unwanted exotic organisms into a new habitat?"
+        ]
+      },
+      "Biosafety Levels": {
+        "description": "Determining the appropriate biosafety level for plant research and understanding containment construction standards",
+        "questions": [
+          "What are the different biosafety level designations for plant research and how are they determined?",
+          "How do I know which biosafety level is required for my specific research project?",
+          "What are the guidelines for achieving biosafety level standards in a greenhouse or laboratory setting?"
+        ]
+      },
+      "Risk Assessment": {
+        "description": "Conducting risk assessments to determine the appropriate biosafety level and containment strategies for plant research",
+        "questions": [
+          "What factors should I consider when conducting a risk assessment for my plant research project?",
+          "How do I evaluate the potential risks associated with my research and determine the necessary containment measures?",
+          "What are the key considerations for assessing the geographic, ecological, and agricultural environment surrounding my study site?",
+          "What is the purpose of a Risk Assessment for drone projects?",
+          "How do I submit a Risk Assessment for my drone project?",
+          "What information should be included in a Risk Assessment for drone projects?"
+        ]
+      },
+      "Biological Containment Strategies": {
+        "description": "Implementing physical and biological containment strategies to prevent the spread of regulated agents and protect the environment",
+        "questions": [
+          "What are some examples of physical containment methods for plant research?",
+          "How can I use biological containment strategies to prevent the spread of plant pathogens or noxious weeds?",
+          "What are the best practices for removing or inactivating plant reproductive structures to prevent unintended spread?"
+        ]
+      },
+      "Human Tissue Shipping": {
+        "description": "Guidelines and procedures for shipping and receiving human tissues",
+        "questions": [
+          "What are the requirements for shipping human specimens domestically?",
+          "How do I package and label human tissues for international shipping?",
+          "What documentation is needed for receiving human tissues at UF?"
+        ]
+      },
+      "Tissue Banking": {
+        "description": "Procedures and guidelines for storing and managing human tissues",
+        "questions": [
+          "What are the protocols for storing human tissues at UF?",
+          "How do I access the Tissue Banking Guidance Table and Flow Chart?",
+          "What are the regulations for handling and disposing of human tissues?"
+        ]
+      },
+      "Shipping and Transport of Biological Materials": {
+        "description": "Guidelines and regulations for safely shipping and transporting biological materials, including training requirements and packaging procedures",
+        "questions": [
+          "What training is required for shipping biological materials?",
+          "How do I obtain a Shipping and Transport of Biological Materials Training Certificate?",
+          "What are the packaging requirements for transporting biological materials within UF facilities?"
+        ]
+      },
+      "Biological Material Regulations": {
+        "description": "Information on what biological materials are subject to shipping and transport regulations, including definitions and examples",
+        "questions": [
+          "What types of biological materials are considered 'dangerous goods' for shipping purposes?",
+          "Are genetically modified organisms subject to shipping regulations?",
+          "How do I determine if a biological material is regulated for shipping?"
+        ]
+      },
+      "Transporting Biological Materials Within UF": {
+        "description": "Procedures for safely transporting biological materials within and around UF facilities, including containerization and spill response",
+        "questions": [
+          "What are the requirements for double-containing biological materials for transport?",
+          "How do I handle spills during transport of biological materials?",
+          "Can I transport biological materials in my personal vehicle?"
+        ]
+      },
+      "Shipping Human Specimens": {
+        "description": "Guidelines and resources for shipping and receiving human specimens, including domestic and foreign shipping",
+        "questions": [
+          "What resources are available for shipping human tissues at UF?",
+          "How do I ship human specimens domestically?",
+          "What are the regulations for shipping human specimens internationally?"
+        ]
+      },
+      "Shipping Radioactive and Hazardous Materials": {
+        "description": "Contact information and resources for shipping radioactive and hazardous materials, including chemicals and other regulated items",
+        "questions": [
+          "Who do I contact for shipping radioactive materials?",
+          "What are the procedures for shipping hazardous chemicals?",
+          "How do I obtain guidance on shipping other regulated items?"
+        ]
+      },
+      "Export Control": {
+        "description": "Regulations and guidelines for exporting biological agents and materials",
+        "questions": [
+          "What are the regulations for exporting biological agents to restricted countries?",
+          "How do I obtain an export permit for shipping bioagents?",
+          "What are the consequences of exporting bioagents without a permit?"
+        ]
+      },
+      "Bioagent Shipping": {
+        "description": "Procedures and requirements for shipping biological agents and materials",
+        "questions": [
+          "What are the steps to follow when shipping bioagents internationally?",
+          "How do I package and label bioagents for shipping?",
+          "What are the requirements for shipping bioagents to Cuba, Iran, Sudan, Syria, or North Korea?"
+        ]
+      },
+      "Regulated Bioagents": {
+        "description": "List of biological agents regulated for export and their requirements",
+        "questions": [
+          "What bioagents are regulated for export and require a permit?",
+          "How do I determine if a bioagent is subject to export control regulations?",
+          "What are the specific requirements for shipping select agents?"
+        ]
+      },
+      "Permitting and Licensing": {
+        "description": "Process and requirements for obtaining permits and licenses for exporting bioagents",
+        "questions": [
+          "How do I apply for an export permit for bioagents?",
+          "What are the requirements for obtaining a license to export bioagents?",
+          "How long does it take to process an export permit application?"
+        ]
+      },
+      "Compliance and Enforcement": {
+        "description": "Consequences of non-compliance and enforcement of export control regulations",
+        "questions": [
+          "What are the penalties for violating export control regulations?",
+          "How are export control regulations enforced?",
+          "What are the consequences of shipping bioagents without a permit or license?"
+        ]
+      },
+      "Permits and Documentation": {
+        "description": "Information on required permits and documentation for shipping and transporting biological materials",
+        "questions": [
+          "What types of permits are required for shipping biological materials?",
+          "How do I obtain a CDC Import Permit for etiological agents?",
+          "What documentation is needed for interstate movement of microorganisms infectious to livestock?"
+        ]
+      },
+      "Biological Materials Regulation": {
+        "description": "Regulations and oversight for biological materials, including select infectious agents and toxins",
+        "questions": [
+          "What are the regulations for transferring Select Infectious Agents and Toxins?",
+          "How do I register a shipment of listed agents with the USDA/CDC?",
+          "What are the consequences of not complying with biological materials regulations?"
+        ]
+      },
+      "Export Regulations": {
+        "description": "Regulations and requirements for exporting etiologic agents and related materials",
+        "questions": [
+          "What are the regulations for exporting etiologic agents of human, plant, and animal diseases?",
+          "How do I obtain an export license for genetic material?",
+          "Are there any countries that are prohibited from receiving exports of biological agents?"
+        ]
+      },
+      "Responsibilities and Compliance": {
+        "description": "Responsibilities of principal investigators and regulatory compliance for biological materials",
+        "questions": [
+          "What are the responsibilities of a principal investigator for obtaining and maintaining permits?",
+          "How often are inspections by regulatory bodies required?",
+          "What are the consequences of non-compliance with regulations and permits?"
+        ]
+      },
+      "State and Federal Regulations": {
+        "description": "State and federal regulations for shipping and transporting biological materials",
+        "questions": [
+          "What are the state regulations for intra-state movement of biological materials in Florida?",
+          "How do I obtain a Florida Department of Agriculture and Consumer Services permit?",
+          "What are the federal regulations for importing and transporting biological materials?"
+        ]
+      },
+      "Select Agent Regulations": {
+        "description": "Regulations and guidelines for working with select agents and toxins",
+        "questions": [
+          "What are the consequences of not complying with federal regulations for select agents?",
+          "How do I register to work with select agents or toxins?",
+          "What are the permissible amounts of select agent toxins that do not require full federal registration?"
+        ]
+      },
+      "Exemptions and Exceptions": {
+        "description": "Exemptions and exceptions to select agent regulations",
+        "questions": [
+          "What types of diagnostic work with select agents are exempt from full federal registration?",
+          "Are there any attenuated strains of select agents that are excluded from regulations?",
+          "What are the restrictions on working with non-confirmed specimens?"
+        ]
+      },
+      "Dual Use Research of Concern": {
+        "description": "Guidelines and policies for dual use research of concern",
+        "questions": [
+          "What is the United States Government Policy for Institutional Oversight of Life Sciences Dual Use Research of Concern?",
+          "How do I determine if my research is subject to dual use research of concern policies?",
+          "What are the procedures for obtaining approval for dual use research of concern at UF?"
+        ]
+      },
+      "Registration and Approval": {
+        "description": "Registration and approval processes for working with select agents",
+        "questions": [
+          "How do I register a project that involves select agents or toxins?",
+          "What information is required for project registration?",
+          "How long does the project registration process typically take?"
+        ]
+      },
+      "Chemical Hygiene Plan": {
+        "description": "Guidelines and procedures for handling hazardous chemicals in laboratories",
+        "questions": [
+          "What is the purpose of the Chemical Hygiene Plan?",
+          "How do I complete a lab-specific Chemical Hygiene Plan?",
+          "What are the key components of the LATCH module in Gator TRACS?"
+        ]
+      },
+      "Chemical Inventory Management": {
+        "description": "Procedures for maintaining an accurate and up-to-date inventory of chemicals in the lab",
+        "questions": [
+          "How do I update the chemical inventory in Gator TRACS?",
+          "What information is required for maintaining an accurate chemical inventory?",
+          "How often should I review and update the chemical inventory?"
+        ]
+      },
+      "Employee Training": {
+        "description": "Training requirements and resources for employees working with hazardous chemicals",
+        "questions": [
+          "What training is required for working with hazardous chemicals in the lab?",
+          "How do I access EH&S training courses?",
+          "Can my department or supervisor provide additional training on chemical safety?"
+        ]
+      },
+      "Emergency Procedures": {
+        "description": "Procedures for responding to emergencies and accidents in the lab",
+        "questions": [
+          "What are the procedures for responding to a chemical spill?",
+          "How do I report a chemical exposure or accident?",
+          "What are the emergency contact procedures in case of an accident?",
+          "What do I do in case of a radioactive spill?",
+          "How do I report a radiation safety incident?",
+          "What are the emergency procedures for radioactive material accidents?"
+        ]
+      },
+      "Laboratory Closeouts": {
+        "description": "Procedures and guidelines for safely closing down laboratory operations",
+        "questions": [
+          "What is the process for reporting a lab closeout to EH&S?",
+          "How far in advance should I report a lab closeout?",
+          "What happens during a lab closeout consultation with an EH&S representative?",
+          "How do I request an extension for corrective actions in Gator TRACS?"
+        ]
+      },
+      "Lab Safety and Compliance": {
+        "description": "Regulations and best practices for ensuring laboratory safety during closeouts",
+        "questions": [
+          "What are the potential fines or penalties for not properly closing out a lab?",
+          "How can I prevent delays or unexpected issues during the lab closeout process?",
+          "What safety protocols should I follow when disposing of hazardous materials during a lab closeout?",
+          "How do I ensure compliance with regulatory agencies during a lab closeout?"
+        ]
+      },
+      "Gator TRACS and Reporting": {
+        "description": "Using the Gator TRACS system to manage lab closeout reports and corrective actions",
+        "questions": [
+          "How do I submit a lab closeout report in Gator TRACS?",
+          "What is the default deadline for completing corrective actions in Gator TRACS?",
+          "How do I request an extension for corrective actions in Gator TRACS?",
+          "How do I administratively close out corrective actions in Gator TRACS?"
+        ]
+      },
+      "EH&S Support and Consultation": {
+        "description": "Working with EH&S representatives during the lab closeout process",
+        "questions": [
+          "What support can I expect from EH&S during the lab closeout process?",
+          "How do I schedule a lab closeout consultation with an EH&S representative?",
+          "What information should I provide to EH&S when reporting a lab closeout?",
+          "How do I communicate with my EH&S representative during the lab closeout process?"
+        ]
+      },
+      "Chemical Storage": {
+        "description": "Guidelines and regulations for storing chemicals in a laboratory setting",
+        "questions": [
+          "What are the general rules for storing liquid chemicals in a lab?",
+          "How should flammable chemicals be stored in a laboratory?",
+          "What are the requirements for storing solid or powdered chemicals?"
+        ]
+      },
+      "Chemical Handling": {
+        "description": "Proper techniques and procedures for handling chemicals in a laboratory",
+        "questions": [
+          "How should acids be handled and stored in a laboratory?",
+          "What are the procedures for pouring and mixing chemicals?",
+          "How should chemical spills be cleaned up in a laboratory?"
+        ]
+      },
+      "Flammable and Combustible Liquids": {
+        "description": "Regulations and guidelines for storing and handling flammable and combustible liquids",
+        "questions": [
+          "What are the storage requirements for flammable liquids in a laboratory?",
+          "How should flammable materials be handled and used in a laboratory?",
+          "What are the regulations for storing quantities of flammable liquids?"
+        ]
+      },
+      "Corrosive Chemicals": {
+        "description": "Safety protocols and procedures for handling corrosive chemicals",
+        "questions": [
+          "How should corrosive chemicals be stored and handled in a laboratory?",
+          "What are the safety precautions for working with acids and bases?",
+          "How should chemical resistant tubs and bottle carriers be used?"
+        ]
+      },
+      "DBPR Exemption": {
+        "description": "Obtaining and maintaining a State of Florida exemption for research involving pharmaceutical grade substances or medical gases",
+        "questions": [
+          "How do I apply for a DBPR exemption for my research project?",
+          "What documents are required to upload for a DBPR exemption application?",
+          "Can I submit my DBPR exemption application via email or fax?"
+        ]
+      },
+      "Registration and Renewal": {
+        "description": "Registering and renewing a DBPR exemption, including deadlines and requirements",
+        "questions": [
+          "How often do I need to renew my DBPR exemption?",
+          "What happens if my DBPR exemption expires before I can renew it?",
+          "Is there a fee associated with applying for or renewing a DBPR exemption?"
+        ]
+      },
+      "DEA Controlled Substances": {
+        "description": "Understanding the relationship between DBPR exemptions and DEA controlled substances registrations",
+        "questions": [
+          "Do I need a DBPR exemption to obtain a DEA controlled substances registration?",
+          "How do I apply for a DEA controlled substances registration?",
+          "What are the requirements for storing and handling DEA controlled substances in my research lab?"
+        ]
+      },
+      "Application Submission and Status": {
+        "description": "Submitting and tracking DBPR exemption applications, including online portals and support",
+        "questions": [
+          "How do I submit my DBPR exemption application online?",
+          "Can I check the status of my DBPR exemption application online?",
+          "Who do I contact if I have questions or issues with my DBPR exemption application?"
+        ]
+      },
+      "Minors in the Lab": {
+        "description": "Policies and procedures for minors participating in research activities in University of Florida laboratories",
+        "questions": [
+          "What are the requirements for minors to work or conduct research in University of Florida laboratories?",
+          "How do I register a minor to work in a University of Florida research space?",
+          "What are the restrictions on minors operating farm machinery or state vehicles?"
+        ]
+      },
+      "Equipment Purchase Approval": {
+        "description": "what's covered in the equipment purchase approval process",
+        "questions": [
+          "What equipment requires pre-approval before purchasing?",
+          "How do I submit the Equipment Purchase Approval Form?",
+          "What information is required to complete the Equipment Purchase Approval Form?"
+        ]
+      },
+      "Laboratory Safety Equipment": {
+        "description": "safety equipment used in laboratory settings",
+        "questions": [
+          "What types of personal protective equipment are required in labs?",
+          "How often should lab safety equipment be inspected and maintained?",
+          "What are the guidelines for using fume hoods and biological safety cabinets?"
+        ]
+      },
+      "Hazardous Materials Handling": {
+        "description": "procedures for handling hazardous materials and equipment",
+        "questions": [
+          "What are the procedures for disposing of hazardous waste?",
+          "How should I handle and store compressed gas cylinders?",
+          "What are the guidelines for working with radioactive materials?"
+        ]
+      },
+      "Emergency Response and Preparedness": {
+        "description": "preparing for and responding to emergencies in the lab",
+        "questions": [
+          "What are the procedures for responding to a lab accident or spill?",
+          "How do I report a hazardous material incident?",
+          "What are the guidelines for using firefighting equipment and emergency showers?"
+        ]
+      },
+      "Chemical Safety": {
+        "description": "Information on safe handling, storage, and disposal of hazardous chemicals",
+        "questions": [
+          "What are the hazards associated with a specific chemical?",
+          "How do I properly label and store chemicals in the laboratory?",
+          "What personal protective equipment is required when working with hazardous chemicals?",
+          "What are the guidelines for using heated or evaporating perchloric acid in a laboratory?",
+          "How do I properly store and dispose of hazardous chemicals?",
+          "What are the risks associated with using chemicals that volatilize or release vapor?",
+          "How do I properly dispose of hazardous chemicals in the lab?",
+          "What are the safety protocols for handling corrosive substances?",
+          "Where can I find information on chemical inventory management?"
+        ]
+      },
+      "GHS Labeling": {
+        "description": "Understanding the Globally Harmonized System of classification and labeling of chemicals",
+        "questions": [
+          "What are the six elements required on a GHS label?",
+          "How do I interpret the pictograms and signal words on a chemical label?",
+          "Are there any specific requirements for GHS labeling in the laboratory?"
+        ]
+      },
+      "Safety Data Sheets": {
+        "description": "Accessing and understanding Safety Data Sheets for hazardous chemicals",
+        "questions": [
+          "Where can I find the Safety Data Sheets for the chemicals used in my laboratory?",
+          "What information is included on a Safety Data Sheet?",
+          "How often should I review the Safety Data Sheets for the chemicals I work with?"
+        ]
+      },
+      "Personal Protective Equipment": {
+        "description": "Determining and using the necessary personal protective equipment when working with hazardous chemicals",
+        "questions": [
+          "How do I determine the required personal protective equipment for a specific task?",
+          "What types of personal protective equipment are available for use in the laboratory?",
+          "Can I use personal protective equipment as a substitute for other safety controls?",
+          "What type of respirator is recommended for mold clean up?",
+          "Do I need to wear eye protection during mold clean up?",
+          "Are disposable gloves required for mold clean up?"
+        ]
+      },
+      "Hazard Assessment and Training": {
+        "description": "Conducting hazard assessments and receiving training on working with hazardous chemicals",
+        "questions": [
+          "How do I conduct a hazard assessment for a specific laboratory activity?",
+          "What training is required before working with hazardous chemicals?",
+          "Who is responsible for providing training on personal protective equipment and hazard assessment?"
+        ]
+      },
+      "Spill Response": {
+        "description": "Protocols and procedures for responding to chemical and radioactive spills",
+        "questions": [
+          "What are the steps to take in case of a chemical spill in my laboratory?",
+          "Who do I contact in case of a radioactive spill on campus?",
+          "What equipment is required for responding to a hazardous spill?"
+        ]
+      },
+      "Chemical Waste": {
+        "description": "Guidelines and regulations for handling and disposing of chemical waste",
+        "questions": [
+          "How do I properly label and store chemical waste in my laboratory?",
+          "What are the procedures for disposing of expired or unwanted chemicals?",
+          "Can I dispose of chemical waste in the regular trash?"
+        ]
+      },
+      "Radioactive Waste": {
+        "description": "Regulations and procedures for handling and disposing of radioactive waste",
+        "questions": [
+          "What are the procedures for handling and storing radioactive materials in my laboratory?",
+          "How do I obtain approval for working with radioactive materials on campus?",
+          "What are the guidelines for disposing of radioactive waste at the University of Florida?"
+        ]
+      },
+      "Shipping Hazardous Materials": {
+        "description": "Procedures and guidelines for shipping hazardous materials off campus",
+        "questions": [
+          "What are the regulations for shipping hazardous materials off campus?",
+          "How do I properly package and label hazardous materials for shipping?",
+          "Can I ship hazardous materials through the US mail?"
+        ]
+      },
+      "Safety Surveys": {
+        "description": "Information about the annual safety surveys conducted by EH&S to ensure lab safety and compliance",
+        "questions": [
+          "How often are safety surveys performed in labs?",
+          "What is the purpose of a safety survey in my lab?",
+          "What happens if a safety issue is observed during a survey?"
+        ]
+      },
+      "Lab Safety Preparation": {
+        "description": "Guidance on how labs can prepare for safety surveys and maintain a safe working environment",
+        "questions": [
+          "How can I prepare my lab for an upcoming safety survey?",
+          "What resources are available to help me identify and correct safety issues in my lab?",
+          "Are there any specific guidelines or checklists I can follow to ensure lab safety?"
+        ]
+      },
+      "Survey Scheduling and Reporting": {
+        "description": "Details about the scheduling and reporting process for safety surveys, including communication with EH&S and access to survey reports",
+        "questions": [
+          "How will I be notified when my lab is scheduled for a safety survey?",
+          "How can I access the report from my lab's safety survey?",
+          "What is the process for addressing and correcting safety issues identified during a survey?"
+        ]
+      },
+      "Chemical Waste Management": {
+        "description": "Procedures and policies for managing chemical hazardous waste generated by the University of Florida",
+        "questions": [
+          "What are the steps for disposing of chemical hazardous waste at UF?",
+          "How do I determine if a chemical is considered hazardous waste?",
+          "What are the guidelines for accumulating chemical waste in my laboratory?"
+        ]
+      },
+      "Waste Determination": {
+        "description": "Processes for identifying and classifying chemical hazardous waste",
+        "questions": [
+          "How do I determine if a chemical is hazardous or non-hazardous?",
+          "What are the criteria for classifying chemical waste as hazardous?",
+          "Can you provide examples of chemicals that are considered hazardous waste?"
+        ]
+      },
+      "Construction and Demolition Waste": {
+        "description": "Management of chemical hazardous waste generated during construction or renovation projects",
+        "questions": [
+          "How do I manage chemical hazardous waste generated during a construction project?",
+          "What are the procedures for disposing of chemical waste from a demolition site?",
+          "Are there any special requirements for managing chemical waste from construction or renovation projects?"
+        ]
+      },
+      "Universal Waste": {
+        "description": "Guidelines for managing universal waste, including batteries, electronics, and other hazardous materials",
+        "questions": [
+          "What types of waste are considered universal waste?",
+          "How do I properly dispose of batteries and electronics?",
+          "Are there any special procedures for managing universal waste in a laboratory setting?"
+        ]
+      },
+      "Hazardous Waste Determination": {
+        "description": "Guidance on determining if a material is hazardous waste",
+        "questions": [
+          "How do I determine if a material is considered hazardous waste?",
+          "What are the key factors in making a hazardous waste determination?",
+          "What are the consequences of incorrect hazardous waste determination?"
+        ]
+      },
+      "Waste Classification": {
+        "description": "Understanding EPA characteristics and listed wastes",
+        "questions": [
+          "What are the EPA characteristics that define hazardous waste?",
+          "How do I know if a waste is listed by the EPA?",
+          "What is the difference between characteristic and listed hazardous waste?"
+        ]
+      },
+      "Labeling and Documentation": {
+        "description": "Proper labeling and documentation of hazardous waste",
+        "questions": [
+          "How do I correctly complete a hazardous waste label?",
+          "What information is required for hazardous waste documentation?",
+          "Can I use the Waste Determination Process Poster for labeling guidance?"
+        ]
+      },
+      "Support and Resources": {
+        "description": "Accessing assistance and guidance for hazardous waste management",
+        "questions": [
+          "Who can I contact for help with hazardous waste determination?",
+          "What resources are available for learning about hazardous waste management?",
+          "How can I get training on proper hazardous waste handling and disposal?"
+        ]
+      },
+      "Fume Hood Operations": {
+        "description": "Proper use and maintenance of fume hoods in laboratory settings",
+        "questions": [
+          "How do I properly use a chemical fume hood to minimize exposure to hazardous materials?",
+          "What is the purpose of the EH&S sticker on a fume hood?",
+          "Can I use a fume hood with a low airflow alarm?"
+        ]
+      },
+      "Engineering Controls": {
+        "description": "Design and implementation of engineering controls to minimize exposure to hazards",
+        "questions": [
+          "What are the different types of engineering controls used in animal research?",
+          "How do down draft tables provide personnel protection?",
+          "What is the purpose of a horizontal laminar flow hood?"
+        ]
+      },
+      "Greenhouse Safety": {
+        "description": "safety protocols for working in greenhouses",
+        "questions": [
+          "What are the safety precautions for working with plants in the greenhouse?",
+          "How do I report a greenhouse-related incident or accident?",
+          "What are the procedures for handling pesticides or other chemicals in the greenhouse?"
+        ]
+      },
+      "Gator TRACS Platform": {
+        "description": "using the Gator TRACS platform for safety management",
+        "questions": [
+          "How do I access and navigate the Gator TRACS platform?",
+          "What types of safety information can I find on Gator TRACS?",
+          "How do I update my training records or chemical inventory on Gator TRACS?"
+        ]
+      },
+      "Hazardous Waste Identification": {
+        "description": "Determining if a waste is hazardous based on its characteristics",
+        "questions": [
+          "How do I determine if my waste is hazardous?",
+          "What are the characteristics of hazardous waste?",
+          "Can you help me identify if my waste is ignitable?",
+          "How do I properly label radioactive waste for disposal?",
+          "What other hazards need to be identified on radioactive waste?",
+          "Can I use red or biohazard bags for radioactive waste disposal?"
+        ]
+      },
+      "Ignitable Waste": {
+        "description": "Understanding the properties of ignitable waste",
+        "questions": [
+          "What is the flash point for a liquid to be considered ignitable?",
+          "Are all flammable solids considered hazardous waste?",
+          "How do I handle flammable compressed gases?"
+        ]
+      },
+      "Oxidizer and Peroxide Waste": {
+        "description": "Managing waste that exhibits oxidizing or peroxide properties",
+        "questions": [
+          "What are examples of oxidizers and peroxides?",
+          "How do I store waste that contains oxidizers or peroxides?",
+          "Are all peroxides considered hazardous waste?"
+        ]
+      },
+      "Hazardous Waste Classification": {
+        "description": "Understanding how to categorize and identify different types of hazardous waste",
+        "questions": [
+          "How do I determine if a chemical is considered hazardous waste?",
+          "What are the differences between P-listed, U-listed, and F-listed waste?",
+          "How can I find out if a specific chemical is on the P-list or U-list?"
+        ]
+      },
+      "Waste Listing Criteria": {
+        "description": "Learning about the criteria used to list hazardous waste",
+        "questions": [
+          "What are the criteria used by the US EPA to list commercial chemicals as hazardous waste?",
+          "How are P-listed and U-listed waste different from F-listed waste?",
+          "Can you provide examples of chemicals that are typically listed as hazardous waste?"
+        ]
+      },
+      "Chemical Waste Identification": {
+        "description": "Identifying specific chemicals and their corresponding waste listings",
+        "questions": [
+          "Is Sodium Azide considered P-listed or U-listed waste?",
+          "How can I determine if a solvent is considered F-listed waste?",
+          "Is Acetone considered hazardous waste and if so, what type of listing does it have?"
+        ]
+      },
+      "Hazardous Waste Accumulation": {
+        "description": "Guidelines and regulations for accumulating hazardous waste at the University of Florida",
+        "questions": [
+          "What are the requirements for designating a Satellite Accumulation Area (SAA) for hazardous waste storage?",
+          "How should containers be labeled and marked for hazardous waste accumulation?",
+          "What is the maximum volume of hazardous waste allowed in a satellite accumulation area?"
+        ]
+      },
+      "Satellite Accumulation Area Requirements": {
+        "description": "Rules and regulations for managing Satellite Accumulation Areas (SAAs) for hazardous waste storage",
+        "questions": [
+          "What information must be posted in the vicinity of each SAA?",
+          "How often must personnel who handle or generate hazardous waste receive training?",
+          "What equipment must be accessible in all SAAs?"
+        ]
+      },
+      "Labeling and Segregation": {
+        "description": "Procedures for labeling and segregating hazardous waste to prevent mixing and reactions",
+        "questions": [
+          "What information must be included on a hazardous waste label?",
+          "How should hazardous wastes be segregated to prevent unintentional mixing?",
+          "What types of containers are compatible with different types of hazardous waste?"
+        ]
+      },
+      "Disposal and Collection": {
+        "description": "Procedures for disposing of hazardous waste and requesting collection",
+        "questions": [
+          "How can lab waste managers request hazardous waste collection?",
+          "What is the proper procedure for disposing of chemical hazardous waste?",
+          "Can hazardous waste be discharged to sanitary drains or disposed of in normal trash cans?"
+        ]
+      },
+      "Training and Preparedness": {
+        "description": "Requirements for training personnel and preparing for emergencies in hazardous waste management",
+        "questions": [
+          "What training is required for personnel who handle or generate hazardous waste?",
+          "What equipment must be accessible in case of an emergency?",
+          "How often must SAAs be audited for compliance?"
+        ]
+      },
+      "Asbestos Management": {
+        "description": "Identification, management, and safe handling of asbestos-containing materials in construction and demolition projects",
+        "questions": [
+          "How do I identify asbestos-containing materials in a building scheduled for renovation or demolition?",
+          "What training is required for contractors handling asbestos-containing materials?",
+          "What are the procedures for conducting an asbestos survey?"
+        ]
+      },
+      "Lead Paint Management": {
+        "description": "Identification, characterization, and management of lead paint in construction and demolition projects",
+        "questions": [
+          "How do I determine if a building contains lead paint?",
+          "What are the requirements for handling lead paint in a construction project?",
+          "How do I comply with OSHA and EPA regulations for lead paint management?"
+        ]
+      },
+      "PCB and Caulking Management": {
+        "description": "Identification, handling, and disposal of polychlorinated biphenyls (PCB) in caulking and other materials",
+        "questions": [
+          "How do I determine if caulking contains PCBs?",
+          "What are the procedures for handling and disposing of PCB-containing caulking?",
+          "What are the regulations for managing PCBs in construction and demolition projects?"
+        ]
+      },
+      "Universal Waste Management": {
+        "description": "Management and disposal of universal waste, including lamps, batteries, and mercury-containing equipment",
+        "questions": [
+          "How do I properly dispose of fluorescent and HID lamps?",
+          "What are the requirements for handling and storing batteries and mercury-containing equipment?",
+          "How do I label and manage universal waste in a construction project?",
+          "What types of waste are considered universal waste?",
+          "How do I properly dispose of rechargeable batteries?",
+          "What are the regulations for disposing of mercury-containing lamps?"
+        ]
+      },
+      "Training and Liability": {
+        "description": "Training requirements and liability for contractors and project managers handling hazardous materials",
+        "questions": [
+          "What training is required for contractors handling hazardous materials?",
+          "Who is liable for improper management of hazardous waste in a construction project?",
+          "How do I ensure that my staff is properly trained to handle hazardous materials?"
+        ]
+      },
+      "Liquid Waste Management": {
+        "description": "Procedures for handling and disposing of liquid hazardous wastes in laboratories",
+        "questions": [
+          "How do I properly label a container of liquid hazardous waste?",
+          "What are the guidelines for storing flammable liquids in the lab?",
+          "Can I dispose of liquid waste down the sink drain?"
+        ]
+      },
+      "Solid Waste Management": {
+        "description": "Guidelines for handling and disposing of solid hazardous wastes in laboratories",
+        "questions": [
+          "How do I dispose of solid waste that contains hazardous chemicals?",
+          "Can I put liquid-containing vials in the same container as solid waste?",
+          "What types of containers are available for solid waste accumulation?"
+        ]
+      },
+      "Clean Lab Ware Disposal": {
+        "description": "Procedures for disposing of clean, non-contaminated laboratory items",
+        "questions": [
+          "How do I dispose of clean lab ware that is not contaminated with hazardous chemicals?",
+          "Can I dispose of clean lab ware in the regular trash?",
+          "What are the requirements for disposing of clean lab ware as 'Clean Lab Ware'?"
+        ]
+      },
+      "Electrophoresis Waste Management": {
+        "description": "Guidelines for handling and disposing of waste generated from electrophoresis procedures",
+        "questions": [
+          "How do I dispose of agarose gels stained with Ethidium Bromide?",
+          "Can I dispose of dilute solutions of SYBR Green down the sink drain?",
+          "What are the procedures for handling unused portions of electrophoresis dyes?"
+        ]
+      },
+      "Used Oil and Oily Wastes": {
+        "description": "Proper handling and disposal of used oil, oil filters, and oily wastes",
+        "questions": [
+          "How do I accumulate and store used oil in my shop?",
+          "Can I dispose of oily wastes in regular trash?",
+          "What are the requirements for storing used oil filters?"
+        ]
+      },
+      "Oil-Filled Electronics and PCB Waste": {
+        "description": "Compliance with federal and state laws regarding PCB contamination in oil-filled electrical devices",
+        "questions": [
+          "How do I determine if an electrical device contains PCBs?",
+          "What are the procedures for disposing of PCB-containing devices?",
+          "How do I handle oil spills from transformers or oil-filled electrical devices?"
+        ]
+      },
+      "Universal Wastes": {
+        "description": "Regulations and guidelines for managing universal wastes, a special family of wastes",
+        "questions": [
+          "What types of wastes are considered universal wastes?",
+          "How do I properly dispose of universal wastes?",
+          "What are the regulations for storing and handling universal wastes?"
+        ]
+      },
+      "Chemical Availability": {
+        "description": "Information about available free research chemicals through the UF ChemSwap program",
+        "questions": [
+          "What chemicals are currently available for free through the ChemSwap program?",
+          "How do I find out what research chemicals are available for my lab to claim?",
+          "Are all the chemicals listed on the ChemSwap site available for immediate pickup?"
+        ]
+      },
+      "Chemical Request Process": {
+        "description": "Procedures for requesting and obtaining free chemicals from the UF ChemSwap program",
+        "questions": [
+          "How do I request a chemical through the ChemSwap program?",
+          "What information do I need to provide when requesting a chemical?",
+          "Can I request a chemical online or do I need to call the EH&S department?"
+        ]
+      },
+      "Chemical Delivery and Pickup": {
+        "description": "Details about how and where free chemicals are delivered through the UF ChemSwap program",
+        "questions": [
+          "How are the free chemicals delivered to my lab?",
+          "Do I need to pick up the chemicals from a central location or are they delivered to my lab?",
+          "Can I specify a delivery time or date for the chemicals?"
+        ]
+      },
+      "Eligibility and Participation": {
+        "description": "Information about who can participate in the UF ChemSwap program and what labs are eligible",
+        "questions": [
+          "Which labs are eligible to participate in the ChemSwap program?",
+          "Can non-UF labs participate in the ChemSwap program?",
+          "Do I need to be a principal investigator to request chemicals through the ChemSwap program?"
+        ]
+      },
+      "Chemical Condition and Packaging": {
+        "description": "Details about the condition and packaging of the free chemicals available through the UF ChemSwap program",
+        "questions": [
+          "Are the free chemicals provided in their original packaging?",
+          "Are the chemicals guaranteed to be unopened and unused?",
+          "What if I receive a chemical that is damaged or not in its original packaging?"
+        ]
+      },
+      "Hazardous Material Shipping": {
+        "description": "Guidance on shipping hazardous materials, including certifications, procedures, and requirements",
+        "questions": [
+          "What certifications are required to ship hazardous materials?",
+          "How far in advance should I contact EH&S to ship hazardous materials?",
+          "What information is needed to complete the Hazardous Material Shipment Notification Form?"
+        ]
+      },
+      "Shipping Procedures": {
+        "description": "Step-by-step procedures for shipping hazardous materials, including forms and deadlines",
+        "questions": [
+          "What is the process for submitting the Hazardous Material Shipment Notification Form?",
+          "How will I know if my shipment notification form has been received by EH&S?",
+          "What are the responsibilities of the shipper in preparing hazardous materials for shipping?"
+        ]
+      },
+      "EH&S Support": {
+        "description": "Support and resources available from EH&S for shipping hazardous materials",
+        "questions": [
+          "What training and experience do EH&S staff have in shipping hazardous materials?",
+          "How can EH&S assist with shipping hazardous materials?",
+          "What is the best way to contact EH&S for support with shipping hazardous materials?"
+        ]
+      },
+      "Generator Status and Requirements": {
+        "description": "Determining generator status based on waste generation rate and accumulation",
+        "questions": [
+          "How is generator status determined for my off-campus facility?",
+          "What are the limits and thresholds for each generator level?",
+          "What are the regulatory requirements for Small Quantity Generators?"
+        ]
+      },
+      "Emergency Preparedness and Response": {
+        "description": "Preparing for and responding to emergencies related to hazardous waste",
+        "questions": [
+          "What are the requirements for emergency arrangements for Small Quantity Generators?",
+          "How do I document attempted arrangements with local authorities?",
+          "What information must be posted in areas where hazardous waste is present?"
+        ]
+      },
+      "Waste Handling and Training": {
+        "description": "Proper handling and training for employees working with hazardous waste",
+        "questions": [
+          "What training is required for employees handling hazardous waste?",
+          "How often must hazardous waste containers be inspected?",
+          "What are the requirements for labeling hazardous waste containers?"
+        ]
+      },
+      "Radioactive Waste Disposal": {
+        "description": "Procedures and guidelines for disposing of radioactive waste in laboratories",
+        "questions": [
+          "What are the steps to prepare radioactive waste for disposal?",
+          "How do I schedule a pickup for radioactive waste?",
+          "What types of waste are not accepted for disposal?",
+          "How do I know if my smoke detector contains radioactive materials?",
+          "What are the hours for delivering smoke detectors to Building 831?",
+          "Do I need to provide an inventory of smoke detectors being disposed of?"
+        ]
+      },
+      "Radiation Safety Training": {
+        "description": "Requirements and information for laboratory members working with radioactive materials",
+        "questions": [
+          "What training is required for laboratory members working with radioactive materials?",
+          "How do I register for the Radiation Safety Short Course?",
+          "What topics are covered in the Radiation Safety Short Course?",
+          "What radiation safety training courses are available for researchers?",
+          "How often do I need to take radiation safety training?",
+          "Are there any online resources for learning about radiation safety?",
+          "How do I access the RSSC Course Study Guides?",
+          "What is the passing score required for the RSSC assessment?"
+        ]
+      },
+      "Biohazardous Waste Disposal": {
+        "description": "Procedures and guidelines for disposing of biohazardous waste, including inactivation procedures",
+        "questions": [
+          "How do I dispose of active biohazardous waste?",
+          "What are the procedures for inactivating biohazardous waste?",
+          "Who do I contact for assistance with biohazardous waste disposal?"
+        ]
+      },
+      "Battery Disposal": {
+        "description": "Proper procedures for disposing of rechargeable batteries, including labeling and recycling",
+        "questions": [
+          "Can I throw away alkaline batteries with regular trash?",
+          "How do I label a container for battery disposal?",
+          "What is the deadline for recycling batteries through EH&S?"
+        ]
+      },
+      "Mercury-Containing Waste": {
+        "description": "Guidelines for handling and disposing of mercury-containing lamps and devices, including proper labeling and containment",
+        "questions": [
+          "What types of lamps are considered mercury-containing waste?",
+          "How do I prevent mercury spillage when disposing of broken devices?",
+          "Can I dispose of mercury-containing devices with regular trash?"
+        ]
+      },
+      "Hazardous Waste Regulations": {
+        "description": "Overview of regulations and guidelines for managing hazardous waste, including universal waste and radioactive materials",
+        "questions": [
+          "What are the differences between universal waste and hazardous waste regulations?",
+          "How do I determine if my waste is hazardous or universal?",
+          "What are the consequences of not following proper hazardous waste disposal procedures?"
+        ]
+      },
+      "Laser Lab Requirements": {
+        "description": "What's required for setting up and operating a laser lab safely",
+        "questions": [
+          "What are the necessary safety precautions for a Class 3B laser lab?",
+          "How often should a laser safety survey be conducted for a Class 4 laser lab?",
+          "What type of signs are required for a Class 3B and Class 4 laser lab?"
+        ]
+      },
+      "Laser Safety Training": {
+        "description": "Training requirements for working with lasers",
+        "questions": [
+          "Who is required to take the online laser safety training course UF_EHS833_OLT?",
+          "What type of training is required for direct laser users?",
+          "How do I get authorized to work with lasers without supervision?"
+        ]
+      },
+      "Laser Safety Documents": {
+        "description": "Available resources and guidelines for laser safety",
+        "questions": [
+          "What is the primary document detailing laser safety requirements at the University of Florida?",
+          "Where can I find the emergency procedure for laser accidents?",
+          "What materials are acceptable and unacceptable for use in a laser cutter?"
+        ]
+      },
+      "Laser Registration and Regulations": {
+        "description": "Regulations and registration requirements for lasers",
+        "questions": [
+          "Which classes of lasers are regulated by the State of Florida?",
+          "How do I register a Class 3B or Class 4 laser with the UF EH&S Laser Safety Program?",
+          "What are the consequences of not registering a regulated laser?"
+        ]
+      },
+      "Laser Emergency Procedures": {
+        "description": "Procedures to follow in case of a laser-related emergency",
+        "questions": [
+          "What should I do in case of a laser accident?",
+          "Who should I contact in case of a laser emergency?",
+          "What information is included in the Laser Emergency document?"
+        ]
+      },
+      "Radiation Safety": {
+        "description": "Guidelines and regulations for handling radioactive materials and radiation-producing devices",
+        "questions": [
+          "What are the rules for handling radioactive materials on campus?",
+          "How do I obtain approval for using radiation-producing devices in my research?",
+          "What training is required for working with radioactive materials?"
+        ]
+      },
+      "Radiation Exposure": {
+        "description": "Procedures for monitoring and responding to radiation exposure",
+        "questions": [
+          "What happens if I am exposed to radiation in the lab?",
+          "How do I report a radiation incident?",
+          "What are the procedures for decontamination after a radiation spill?"
+        ]
+      },
+      "Radiation-Producing Devices": {
+        "description": "Guidelines for the use and maintenance of radiation-producing devices",
+        "questions": [
+          "What are the safety protocols for using X-ray machines?",
+          "How do I request maintenance for a radiation-producing device?",
+          "What are the regulations for disposing of radiation-producing devices?"
+        ]
+      },
+      "Radioactive Materials": {
+        "description": "Procedures for handling, storing, and disposing of radioactive materials",
+        "questions": [
+          "How do I obtain a license to work with radioactive materials?",
+          "What are the procedures for storing radioactive materials in the lab?",
+          "How do I dispose of radioactive waste?"
+        ]
+      },
+      "Radiation Safety Authorization": {
+        "description": "What's covered: procedures for obtaining and maintaining authorization to work with radioactive materials",
+        "questions": [
+          "How do I get authorized to work with radioactive materials at the University of Florida?",
+          "What forms do I need to submit to request authorization for radioactive material use?",
+          "Can I work with radioactive materials without an authorized PI?"
+        ]
+      },
+      "Radioactive Material Handling": {
+        "description": "What's covered: guidelines for purchasing, delivering, and storing radioactive materials",
+        "questions": [
+          "How do I purchase radioactive materials for my lab?",
+          "What happens to radioactive material packages during UF observed holidays?",
+          "How are radioactive material packages inspected before delivery to the lab?"
+        ]
+      },
+      "Training and Certification": {
+        "description": "What's covered: requirements for training and certification to work with radioactive materials",
+        "questions": [
+          "What training is required to work with radioactive materials at the University of Florida?",
+          "How often do I need to renew my radiation safety training?",
+          "Can I work with radioactive materials without taking the Radiation Safety Short Course?",
+          "What levels of training are required for employees working with asbestos?",
+          "How do employees receive training on asbestos safety and handling?",
+          "What certifications are required for individuals performing asbestos inspections?"
+        ]
+      },
+      "Project Amendments and Renewals": {
+        "description": "What's covered: procedures for amending and renewing existing authorizations for radioactive material use",
+        "questions": [
+          "How do I amend my existing authorization for radioactive material use?",
+          "What changes require an amendment to my authorization?",
+          "How often do I need to renew my authorization for radioactive material use?"
+        ]
+      },
+      "Lab Closure and Inactivation": {
+        "description": "What's covered: procedures for closing or inactivating a lab that uses radioactive materials",
+        "questions": [
+          "How do I close my authorization for radioactive material use?",
+          "What happens to my lab when I become inactive?",
+          "Can I reactivate my authorization without submitting a new proposal?"
+        ]
+      },
+      "Radiation Dosimetry": {
+        "description": "Monitoring personnel occupational exposures to radiation",
+        "questions": [
+          "How do I obtain a radiation dosimetry badge?",
+          "What types of badges are available for monitoring radiation exposure?",
+          "How do I wear my radiation dosimetry badge correctly?"
+        ]
+      },
+      "Pregnancy Declaration": {
+        "description": "Declaring pregnancy to receive a fetal badge and reduced dose limits",
+        "questions": [
+          "How do I declare my pregnancy to receive a fetal badge?",
+          "What are the benefits of declaring my pregnancy for radiation safety?",
+          "How will my dose limits be affected during pregnancy?"
+        ]
+      },
+      "Dose Record Access": {
+        "description": "Accessing and viewing personal dose records online",
+        "questions": [
+          "How do I access my dose records online?",
+          "What information do I need to log in and view my dose records?",
+          "What types of dose records can I view online?"
+        ]
+      },
+      "Badge Maintenance": {
+        "description": "Maintaining and updating radiation dosimetry badges",
+        "questions": [
+          "How do I report an accidental exposure of my badge?",
+          "How do I obtain a new badge if mine is lost or damaged?",
+          "How do I update the badge coordinator for my group?"
+        ]
+      },
+      "Radiation Safety Protocols": {
+        "description": "Following proper protocols for working with or around radiation",
+        "questions": [
+          "What are the proper procedures for wearing my radiation dosimetry badge?",
+          "How do I ensure accurate readings on my badge?",
+          "What precautions should I take when working with or around radiation?"
+        ]
+      },
+      "Radiation Safety Procedures": {
+        "description": "Protocols and guidelines for handling radiation and radioactive materials",
+        "questions": [
+          "What are the proper procedures for handling radioisotopes in a laboratory setting?",
+          "How do I dispose of radioactive waste?",
+          "What are the biological effects of ionizing radiation?"
+        ]
+      },
+      "Radiation Safety Resources": {
+        "description": "Access to radiation safety materials, tools, and equipment",
+        "questions": [
+          "Where can I find the lecture slides for the Radiation Safety Short Course?",
+          "How do I obtain a Personnel Monitoring Device Application (Dosimetry Badge)?",
+          "What radiation detectors and survey instruments are available for use?"
+        ]
+      },
+      "Radiation Safety Certification": {
+        "description": "Requirements and process for obtaining radiation safety certification",
+        "questions": [
+          "What is the process for completing the Statement of Training and Experience?",
+          "How do I request the Statement of Training and Experience after passing the assessment?",
+          "What is the role of the Office of Radiation Safety in the certification process?"
+        ]
+      },
+      "Radiation Monitoring Devices": {
+        "description": "Information about types of radiation monitoring devices and their uses",
+        "questions": [
+          "What types of radiation monitoring devices are available for use in labs?",
+          "How do I choose the right radiation monitoring device for my lab?",
+          "What are the differences between GEIGER MULLER, IONIZATION CHAMBER, and SODIUM IODIDE devices?"
+        ]
+      },
+      "Radiation Safety Regulations": {
+        "description": "Regulations and guidelines for using radiation monitoring devices",
+        "questions": [
+          "What are the requirements for calibrating radiation meters?",
+          "How often do radiation meters need to be calibrated?",
+          "What happens if I use a radiation meter that is out of calibration?"
+        ]
+      },
+      "Device Maintenance and Repair": {
+        "description": "Information about maintaining and repairing radiation monitoring devices",
+        "questions": [
+          "How do I get my radiation meter calibrated or repaired?",
+          "Can I calibrate my radiation meter on campus or do I need to use an outside vendor?",
+          "What should I do if my radiation meter is damaged or not working properly?"
+        ]
+      },
+      "Device Procurement and Vendor Information": {
+        "description": "Information about purchasing and vendors of radiation monitoring devices",
+        "questions": [
+          "How do I order a new radiation meter for my lab?",
+          "What vendors are approved for purchasing radiation monitoring devices?",
+          "What information do I need to provide when ordering a new radiation meter?"
+        ]
+      },
+      "Lab Compliance and Procedures": {
+        "description": "Procedures for labs using radiation monitoring devices",
+        "questions": [
+          "What are the procedures for collecting and storing radiation meters in my lab?",
+          "How do I ensure that my lab is in compliance with radiation safety regulations?",
+          "What are the consequences of not following radiation safety procedures in my lab?"
+        ]
+      },
+      "Laser Safety Equipment": {
+        "description": "Finding and selecting appropriate laser safety gear such as eyewear, enclosures, and barriers",
+        "questions": [
+          "What are the requirements for laser protective eyewear?",
+          "How do I choose the right laser enclosure for my research?",
+          "What factors should I consider when selecting a laser barrier?"
+        ]
+      },
+      "Laser Classification and Hazards": {
+        "description": "Understanding the dangers and classifications of different types of lasers",
+        "questions": [
+          "How do I determine if a laser is Class 3B or Class 4?",
+          "What are the potential hazards of using a Class 3B laser?",
+          "Can a laser pointer be hazardous to my eyes?"
+        ]
+      },
+      "Laser Usage and Regulations": {
+        "description": "Complying with regulations and guidelines for using lasers in various settings",
+        "questions": [
+          "Are there any restrictions on using lasers outdoors?",
+          "Do I need to notify the FAA before using a laser outside?",
+          "What are the guidelines for safely using laser pointers?"
+        ]
+      },
+      "Diving Safety": {
+        "description": "Guidelines and regulations for safe diving practices at the University of Florida",
+        "questions": [
+          "What are the requirements for officially sanctioned diving at the University of Florida?",
+          "How does the University of Florida ensure compliance with OSHA diving safety regulations?",
+          "What is the role of the Diving Safety Officer in the University of Florida's diving program?"
+        ]
+      },
+      "Boating Safety": {
+        "description": "Policies and procedures for safe boating practices under University of Florida auspices",
+        "questions": [
+          "What are the responsibilities of a boat operator under University of Florida auspices?",
+          "How do I become an authorized boat operator for University of Florida research or educational purposes?",
+          "What safety checks should be performed before transporting a small boat under University of Florida auspices?"
+        ]
+      },
+      "Safety Procedures": {
+        "description": "Procedures for ensuring safety during diving and boating operations at the University of Florida",
+        "questions": [
+          "What safety procedures should be followed in case of an emergency during a diving operation?",
+          "How should I report a safety incident or near-miss during a boating operation?",
+          "What are the guidelines for safe equipment operation during diving and boating activities?"
+        ]
+      },
+      "Drone Regulations": {
+        "description": "Understanding and complying with federal, state, and university regulations for drone operations",
+        "questions": [
+          "What are the key regulations I need to follow when operating a drone on campus?",
+          "How do I ensure I am complying with FAA Part 107 rules?",
+          "Are there any specific university policies I need to be aware of when flying a drone?"
+        ]
+      },
+      "Drone Operations": {
+        "description": "Safe and responsible operation of drones for various purposes",
+        "questions": [
+          "What are the best practices for safely operating a drone in a crowded area?",
+          "How do I obtain a flight permit for a specific location on campus?",
+          "What are the procedures for reporting a drone incident or accident?"
+        ]
+      },
+      "Drone Purchasing and Registration": {
+        "description": "Guidelines for purchasing and registering drones for university use",
+        "questions": [
+          "What are the requirements for purchasing a drone for university use?",
+          "How do I register my drone with the university and the FAA?",
+          "Are there any specific drone models or vendors that are recommended or approved by the university?"
+        ]
+      },
+      "Pilot and Aircraft Requirements": {
+        "description": "Qualifications, training, and equipment requirements for drone pilots and aircraft",
+        "questions": [
+          "What are the training requirements for becoming a certified drone pilot?",
+          "What are the minimum equipment requirements for a drone to be considered airworthy?",
+          "Do I need to undergo a background check to operate a drone on campus?"
+        ]
+      },
+      "Drone Registration": {
+        "description": "Information and procedures for registering drones with the FAA and EH&S",
+        "questions": [
+          "How do I register my drone with the FAA?",
+          "What information is required to register a drone with EH&S?",
+          "Can I register multiple drones at once with the FAA?"
+        ]
+      },
+      "Pilot Licensing": {
+        "description": "Requirements and procedures for obtaining a Remote Pilot license",
+        "questions": [
+          "What are the requirements to become a licensed Remote Pilot?",
+          "How do I obtain a FAA Part 107 license?",
+          "Do I need a license to fly a drone on UF campus?"
+        ]
+      },
+      "Flight Planning and Permits": {
+        "description": "Procedures for submitting flight plans and obtaining permits",
+        "questions": [
+          "How do I submit a flight plan for approval?",
+          "What information is required for a flight plan?",
+          "Can I fly my drone on UF campus without a permit?"
+        ]
+      },
+      "EH&S Registration": {
+        "description": "Procedures for registering with EH&S as a pilot or vendor",
+        "questions": [
+          "How do I register with EH&S as a UF pilot?",
+          "What information is required for EH&S registration?",
+          "Can non-UF vendors register with EH&S?"
+        ]
+      },
+      "Liability Insurance": {
+        "description": "Requirements for liability insurance for drone operations",
+        "questions": [
+          "Do I need liability insurance to fly a drone on UF campus?",
+          "What are the requirements for a Certificate of Insurance?",
+          "How much liability insurance is required for drone operations?"
+        ]
+      },
+      "Ergonomic Injuries": {
+        "description": "Preventing work-related muscle and joint injuries through proper ergonomics",
+        "questions": [
+          "What are the common symptoms of musculoskeletal disorders?",
+          "How can I prevent ergonomic injuries in the workplace?",
+          "What are the risk factors for developing musculoskeletal disorders?"
+        ]
+      },
+      "Ergonomic Evaluations": {
+        "description": "Guidance and support for evaluating and improving workspace ergonomics",
+        "questions": [
+          "How do I submit an ergonomic evaluation form?",
+          "What is involved in an ergonomic evaluation?",
+          "Can I get help setting up my workspace to reduce muscle strain?"
+        ]
+      },
+      "Health and Wellness Resources": {
+        "description": "Information and resources for maintaining ergonomic health and wellness",
+        "questions": [
+          "What resources are available to help me improve my ergonomic health and wellness?",
+          "How can I reduce muscle strain and boost my productivity?",
+          "Are there any ergonomic health and wellness tips or guides available?"
+        ]
+      },
+      "Workspace Setup": {
+        "description": "Guidance on setting up a safe and healthy workspace",
+        "questions": [
+          "How can I set up my computer workstation to reduce ergonomic risk factors?",
+          "What are some simple tips for reducing muscle strain in the workplace?",
+          "Are there any guidelines for setting up a healthy and comfortable workspace?"
+        ]
+      },
+      "Drone Training": {
+        "description": "Information and resources for learning to operate drones safely and effectively",
+        "questions": [
+          "What kind of training is available for drone operators?",
+          "How can I get hands-on flight training for my specific mission?",
+          "Are there any online resources or videos available for drone training?"
+        ]
+      },
+      "Drone Mission Planning": {
+        "description": "Assistance with planning and executing drone missions",
+        "questions": [
+          "How can I plan a successful drone mission?",
+          "What factors should I consider when planning a drone mission?",
+          "Can EH&S help with evaluating aircraft for a specific mission?"
+        ]
+      },
+      "Aerial Services": {
+        "description": "Services offered using drones, such as aerial footage and mapping",
+        "questions": [
+          "What kind of aerial services does EH&S offer?",
+          "Can I get 4K video or still photography from a drone?",
+          "Are mapping missions and 3D renderings available through EH&S?"
+        ]
+      },
+      "Drone Purchasing": {
+        "description": "Guidelines and procedures for purchasing drones that comply with State DMS Rules",
+        "questions": [
+          "What are the requirements for evaluating a drone's compliance with State DMS Rules?",
+          "How do I initiate the process of purchasing a drone for use at UF?",
+          "What information do I need to provide when submitting a drone for evaluation?"
+        ]
+      },
+      "Flight Requests and Permits": {
+        "description": "Procedures for obtaining flight requests and permits for drone operations",
+        "questions": [
+          "How do I submit a flight request for my drone project?",
+          "What are the requirements for obtaining a permit for drone operations?",
+          "How long does it take to process a flight request and obtain a permit?"
+        ]
+      },
+      "Compliance with State DMS Rules": {
+        "description": "Guidelines for ensuring compliance with State DMS Rules regarding UAS",
+        "questions": [
+          "What are the key requirements for complying with State DMS Rules regarding UAS?",
+          "How do I ensure that my drone does not contain 'Critical Components' from a Foreign Country of Concern?",
+          "What are the encryption requirements for drone communications?"
+        ]
+      },
+      "Office Ergonomics": {
+        "description": "Guidelines and best practices for setting up an office workspace to reduce the risk of work-related musculoskeletal disorders",
+        "questions": [
+          "What are the steps to follow for proper office ergonomics?",
+          "How should I adjust my office chair for optimal support?",
+          "What is the recommended position for my computer monitor?"
+        ]
+      },
+      "Workstation Setup": {
+        "description": "Tips for configuring a workstation to promote comfort and reduce the risk of injury",
+        "questions": [
+          "How should I position my keyboard and mouse?",
+          "What are the benefits of using an articulating keyboard tray?",
+          "How can I reduce glare on my computer screen?"
+        ]
+      },
+      "Ergonomic Risk Factors": {
+        "description": "Understanding the physical requirements of a job and how to mitigate ergonomic risk factors",
+        "questions": [
+          "What are common ergonomic risk factors in an office setting?",
+          "How can I prevent damage to my body from prolonged exposure to ergonomic risk factors?",
+          "What are the consequences of not addressing ergonomic risk factors in the workplace?"
+        ]
+      },
+      "Computer Screen Placement": {
+        "description": "Best practices for positioning a computer screen to reduce eye strain and promote comfort",
+        "questions": [
+          "Where should I place my computer screen in relation to my body?",
+          "How far away from the screen should I sit?",
+          "How can I minimize glare on my computer screen?"
+        ]
+      },
+      "Telephone and Document Placement": {
+        "description": "Guidelines for positioning telephones and documents to promote comfort and reduce the risk of injury",
+        "questions": [
+          "Where should I place my telephone in relation to my body?",
+          "How can I position source documents to reduce strain on my neck and eyes?",
+          "What are the benefits of using a headset or speaker phone?"
+        ]
+      },
+      "Indoor Use": {
+        "description": "Guidelines and regulations for operating drones indoors on UF property",
+        "questions": [
+          "What are the requirements for flying a drone indoors on campus?",
+          "Do I need permission to fly a drone inside a UF building?",
+          "How do I get my indoor drone flight plan reviewed by EHS?"
+        ]
+      },
+      "Outdoor Use": {
+        "description": "Rules and procedures for operating drones outdoors on UF property",
+        "questions": [
+          "Can I fly a drone on the Gainesville campus for research purposes?",
+          "What is the process for getting approval to fly a drone outdoors on UF property?",
+          "Are there any restricted areas for outdoor drone flights on campus?"
+        ]
+      },
+      "Hobbyist/Recreational Use": {
+        "description": "Policies and restrictions for recreational drone flying on UF property",
+        "questions": [
+          "Can I fly a drone for fun on the UF main campus?",
+          "Why are recreational drone flights not allowed on the main campus?",
+          "Are there any alternative locations near UF where I can fly a drone recreationally?"
+        ]
+      },
+      "Ergonomic Workstations": {
+        "description": "Tips and strategies for creating an ergonomic and comfortable workspace in a laboratory setting",
+        "questions": [
+          "How can I optimize my laboratory workstation to reduce strain on my back and shoulders?",
+          "What types of equipment or tools can help reduce pressure and force when working in a lab?",
+          "How often should I take breaks to stretch and move when working at a laboratory workstation?"
+        ]
+      },
+      "Pipetting Safety": {
+        "description": "Best practices and techniques for safe and ergonomic pipetting in a laboratory setting",
+        "questions": [
+          "What are some common mistakes to avoid when pipetting to prevent injury or strain?",
+          "How can I properly hold and use a pipette to reduce thumb strain and other ergonomic risks?",
+          "What are some alternatives to traditional pipetting techniques that can help reduce repetitive motion injuries?"
+        ]
+      },
+      "Microscope Use": {
+        "description": "Guidelines and tips for safe and ergonomic use of microscopes in a laboratory setting",
+        "questions": [
+          "How can I properly adjust my microscope and workspace to reduce eye strain and maintain good posture?",
+          "What are some strategies for reducing fatigue and discomfort when working with microscopes for extended periods?",
+          "How often should I take breaks to rest my eyes and stretch when working with a microscope?"
+        ]
+      },
+      "Lab Hoods and Safety Cabinets": {
+        "description": "Best practices and guidelines for safe and efficient use of lab hoods and safety cabinets",
+        "questions": [
+          "How can I optimize the layout and organization of my lab hood or safety cabinet to reduce clutter and improve workflow?",
+          "What are some tips for reducing exposure to hazardous materials when working with lab hoods or safety cabinets?",
+          "How can I properly maintain and clean my lab hood or safety cabinet to ensure safe and efficient operation?"
+        ]
+      },
+      "Agricultural Ergonomics": {
+        "description": "Guidelines and solutions for reducing musculoskeletal injuries in agricultural work",
+        "questions": [
+          "What are the common causes of musculoskeletal injuries in agricultural work?",
+          "How can I design an ergonomically friendly workstation for farm workers?",
+          "What are some examples of ergonomically designed tools for agricultural work?"
+        ]
+      },
+      "Ergonomic Tool Design": {
+        "description": "Principles for designing hand tools to reduce strain and injury",
+        "questions": [
+          "What are the recommended handle sizes for hand tools?",
+          "How can I choose the right material for tool handles?",
+          "What features should dual-handled tools have to reduce user fatigue?"
+        ]
+      },
+      "Lifting and Carrying": {
+        "description": "Guidelines for safe lifting and carrying practices in agricultural work",
+        "questions": [
+          "What is the recommended weight limit for lifting bags or boxes?",
+          "How can I redesign loads to reduce lifting strain?",
+          "What equipment can I use to reduce the amount of lifting required?"
+        ]
+      },
+      "Stooped Work and Posture": {
+        "description": "Strategies for reducing stooped work and improving posture in agricultural tasks",
+        "questions": [
+          "How can I redesign jobs to avoid stooped work?",
+          "What are some alternatives to stooped work, such as stools or long-handled tools?",
+          "How can I provide employees with tasks that require walking or sitting to reduce stooped work?"
+        ]
+      },
+      "Asbestos Contractor Insurance": {
+        "description": "Requirements and guidelines for asbestos contractors' general liability insurance policies",
+        "questions": [
+          "What type of insurance policy is required for asbestos contractors working with the University of Florida?",
+          "What are the minimum limits of liability for asbestos contractor general liability insurance?",
+          "How long must the insurance policy remain in force after the commencement of work?"
+        ]
+      },
+      "Contractor Qualifications": {
+        "description": "Qualifications and requirements for contractors working on asbestos projects",
+        "questions": [
+          "What experience requirements must a contractor's superintendent meet to work on an asbestos project?",
+          "How many years of experience in similar work and products is required for a contractor's superintendent?",
+          "What documentation must be submitted to prove a contractor's superintendent's work experience?"
+        ]
+      },
+      "Pre-Job Submittals and Approval": {
+        "description": "Procedures for submitting and approving pre-job documents and insurance policies",
+        "questions": [
+          "What documents must be included in a contractor's pre-job submittals for an asbestos project?",
+          "Who must approve a contractor's pre-job submittals before work can commence?",
+          "How many business days prior to project start-up must EH&S receive a written statement of approval from the licensed asbestos consultant?"
+        ]
+      },
+      "Contractor Responsibilities": {
+        "description": "Obligations and responsibilities of contractors working on asbestos projects",
+        "questions": [
+          "Who is responsible for ensuring that the insurance policy remains in force without interruption during the project?",
+          "What notice must be provided to the University if a contractor proposes to change their designated superintendent?",
+          "What are the consequences if a successor superintendent fails to meet the requirements of the contract?"
+        ]
+      },
+      "Bid Submittals and References": {
+        "description": "Requirements for bid submittals and references for contractors working on asbestos projects",
+        "questions": [
+          "How many positive written references must a contractor provide if they have not worked on a University of Florida project in the last two years?",
+          "What information must be included in a contractor's bid submittal for an asbestos project?",
+          "How are bid submittals evaluated for contractors working on asbestos projects?"
+        ]
+      },
+      "Industrial Hygiene": {
+        "description": "The science and art of anticipating, recognizing, preventing, and controlling environmental factors that affect worker health and well-being",
+        "questions": [
+          "What is industrial hygiene and how does it apply to my workplace?",
+          "How can I recognize potential health hazards in my work environment?",
+          "What steps can I take to prevent and control environmental factors that affect my health?"
+        ]
+      },
+      "Respiratory Protection": {
+        "description": "Guidelines and policies for the use of respirators and other protective equipment",
+        "questions": [
+          "When is respiratory protection required in the workplace?",
+          "How do I properly use and maintain a respirator?",
+          "What types of respirators are available and how do I choose the right one?",
+          "How do I get a respirator fit test?",
+          "What type of respiratory protection do I need for handling Risk Group 3 agents?",
+          "How often do I need to complete N95 online training?"
+        ]
+      },
+      "Hazardous Materials": {
+        "description": "Information and guidelines for handling and storing hazardous materials, including asbestos and pesticides",
+        "questions": [
+          "How should I handle and store hazardous materials in my workplace?",
+          "What are the risks associated with asbestos and how can I minimize exposure?",
+          "What procedures should I follow for pesticide use and disposal?"
+        ]
+      },
+      "Asbestos Removal": {
+        "description": "Procedures and regulations for safely removing asbestos from buildings",
+        "questions": [
+          "What are the steps involved in removing asbestos from a building?",
+          "How do I schedule an asbestos removal project at the University of Florida?",
+          "What safety protocols are in place for asbestos removal workers?"
+        ]
+      },
+      "Asbestos Safety and Risk": {
+        "description": "Information on the health risks associated with asbestos exposure and how to minimize them",
+        "questions": [
+          "What are the potential health risks of asbestos exposure?",
+          "How can I protect myself from asbestos exposure in the workplace?",
+          "What are the symptoms of asbestos-related diseases?"
+        ]
+      },
+      "Asbestos Regulations and Policies": {
+        "description": "Federal and state regulations, as well as University of Florida policies, governing asbestos management",
+        "questions": [
+          "What are the federal and state regulations regarding asbestos removal?",
+          "Where can I find the University of Florida's asbestos policies?",
+          "How do I report a potential asbestos violation on campus?"
+        ]
+      },
+      "Asbestos Training and Awareness": {
+        "description": "Information on asbestos awareness training classes and educational resources",
+        "questions": [
+          "How do I sign up for an asbestos awareness training class?",
+          "What topics are covered in the asbestos awareness training program?",
+          "Are asbestos training classes required for all University of Florida employees?"
+        ]
+      },
+      "Asbestos Inspection and Identification": {
+        "description": "Procedures for identifying and inspecting asbestos in buildings",
+        "questions": [
+          "How do I request an asbestos inspection for a building on campus?",
+          "What methods are used to identify asbestos in buildings?",
+          "How often are asbestos inspections conducted on University of Florida properties?"
+        ]
+      },
+      "Mold Prevention": {
+        "description": "Ways to prevent mold growth in indoor environments",
+        "questions": [
+          "How can I prevent mold from growing in my home?",
+          "What are the most effective ways to reduce indoor humidity to prevent mold growth?",
+          "What should I do to prevent mold growth in areas with perpetual moisture problems?"
+        ]
+      },
+      "Mold Cleanup": {
+        "description": "Procedures for cleaning up mold in homes and schools",
+        "questions": [
+          "How do I clean mold off hard surfaces?",
+          "What should I do with absorbent materials that are moldy?",
+          "What is the best way to dry building materials and furnishings after a water leak?"
+        ]
+      },
+      "Mold Health Effects": {
+        "description": "Potential health risks and symptoms associated with mold exposure",
+        "questions": [
+          "What are the potential health effects of mold exposure?",
+          "Can mold exposure trigger allergic reactions or asthma?",
+          "What are the most common respiratory complaints associated with mold exposure?"
+        ]
+      },
+      "Moisture Control": {
+        "description": "Strategies for controlling moisture to prevent mold growth",
+        "questions": [
+          "How can I reduce moisture in my home to prevent mold growth?",
+          "What are the best ways to vent moisture-generating sources to the outside?",
+          "How can I prevent condensation on cold surfaces to reduce mold growth?"
+        ]
+      },
+      "Asbestos Safety": {
+        "description": "what's covered in asbestos operations and maintenance plans to protect building occupants and workers",
+        "questions": [
+          "What are the primary objectives of the Asbestos Operations and Maintenance plan?",
+          "How can I identify asbestos-containing materials in University buildings?",
+          "What are the health effects of asbestos exposure?"
+        ]
+      },
+      "Asbestos Regulations": {
+        "description": "regulations and standards governing asbestos use and handling",
+        "questions": [
+          "What are the OSHA asbestos standards for handling and removal?",
+          "How do EPA regulations impact asbestos surveys and abatement?",
+          "What are the Florida DBPR requirements for asbestos-containing materials?"
+        ]
+      },
+      "Asbestos Identification and Inspection": {
+        "description": "identifying and inspecting asbestos-containing materials in buildings",
+        "questions": [
+          "How often are buildings with known or suspected asbestos-containing materials inspected?",
+          "Who is qualified to perform asbestos inspections?",
+          "What is the process for documenting deterioration of asbestos-containing materials?"
+        ]
+      },
+      "Notification and Communication": {
+        "description": "notifying building occupants, contractors, and employees about asbestos presence",
+        "questions": [
+          "How are building occupants notified about the presence of asbestos?",
+          "What information is provided to contractors about asbestos-containing materials?",
+          "How are employees trained on asbestos safety and handling?"
+        ]
+      },
+      "Mold Clean Up Guidelines": {
+        "description": "Guidelines and procedures for cleaning up mold contamination in various areas and surfaces",
+        "questions": [
+          "What are the steps for cleaning up small areas of mold contamination?",
+          "How do I remove mold from non-porous surfaces?",
+          "What personal protective equipment is required for mold clean up?"
+        ]
+      },
+      "Mold Contaminated Materials": {
+        "description": "Procedures for handling and disposing of materials contaminated with mold",
+        "questions": [
+          "How do I dispose of mold-contaminated porous building materials?",
+          "Can mold-contaminated materials be cleaned or must they be discarded?",
+          "What precautions should I take when removing moldy materials to prevent further contamination?"
+        ]
+      },
+      "Large Scale Mold Remediation": {
+        "description": "Procedures and requirements for remediating large areas of mold contamination",
+        "questions": [
+          "What are the requirements for remediating large areas of mold contamination?",
+          "Do I need to contact the EH&S IEQ Coordinator for large scale mold remediation?",
+          "What special techniques and procedures are required for large scale mold remediation?"
+        ]
+      },
+      "Indoor Environmental Quality": {
+        "description": "General considerations and procedures for maintaining indoor environmental quality during mold clean up",
+        "questions": [
+          "How can I prevent the spread of mold to non-affected areas in a building?",
+          "What are the requirements for vacuuming during mold remediation?",
+          "Can I occupy the work area during mold clean up activities?",
+          "What are the minimum requirements for indoor environmental quality in new construction projects?",
+          "How can I minimize the negative impacts of renovation on adjacent occupied spaces?",
+          "What are the guidelines for acceptable IEQ conditions in newly constructed or renovated spaces?"
+        ]
+      },
+      "Asbestos Labeling": {
+        "description": "Procedures for labeling insulation to indicate the presence or absence of asbestos in various materials and locations",
+        "questions": [
+          "What are the requirements for labeling asbestos-containing materials in buildings?",
+          "How should vinyl pipe labels be used to indicate the presence of asbestos?",
+          "What are the standard sizes and colors for stencil paint labels on pipes and equipment?"
+        ]
+      },
+      "Asbestos Identification": {
+        "description": "Methods for identifying asbestos-containing materials in different forms and locations",
+        "questions": [
+          "How can I identify asbestos-containing materials in my building?",
+          "What are the different types of asbestos-containing materials found on the University of Florida Campus?",
+          "How do I know if a material is asbestos-free or contains asbestos?"
+        ]
+      },
+      "Asbestos Abatement": {
+        "description": "Procedures for safely removing or encapsulating asbestos-containing materials",
+        "questions": [
+          "What are the general procedural notes for asbestos abatement projects?",
+          "How should contractors photograph equipment and piping before beginning work?",
+          "What are the requirements for labeling partially abated asbestos-containing materials?"
+        ]
+      },
+      "Safety Precautions": {
+        "description": "Safety measures for working with asbestos-containing materials",
+        "questions": [
+          "What safety precautions should I take when working with asbestos-containing materials?",
+          "How can I prevent exposure to asbestos fibers?",
+          "What are the emergency procedures in case of an asbestos-related incident?"
+        ]
+      },
+      "Asbestos Overview": {
+        "description": "General information about asbestos, its types, and uses",
+        "questions": [
+          "What is asbestos and how is it used?",
+          "What are the different types of asbestos?",
+          "What are the physical properties of asbestos that make it useful?"
+        ]
+      },
+      "Asbestos Hazards": {
+        "description": "Information about the potential hazards of asbestos and when it becomes hazardous",
+        "questions": [
+          "When does asbestos become potentially hazardous?",
+          "What are the risks of asbestos exposure?",
+          "How can asbestos fibers become airborne?"
+        ]
+      },
+      "Health Effects of Asbestos": {
+        "description": "Information about the potential health effects of asbestos exposure",
+        "questions": [
+          "What are the potential health effects of asbestos exposure?",
+          "What diseases are associated with asbestos exposure?",
+          "How long does it take for symptoms of asbestos-related diseases to appear?"
+        ]
+      },
+      "Asbestos Removal and Handling": {
+        "description": "Guidelines for the removal and handling of asbestos-containing materials",
+        "questions": [
+          "How should asbestos-containing materials be removed or modified?",
+          "Who is authorized to remove or modify asbestos-containing materials?",
+          "What precautions should be taken when handling asbestos-containing materials?"
+        ]
+      },
+      "Asbestos Locations at the University of Florida": {
+        "description": "Information about where asbestos can be found at the University of Florida",
+        "questions": [
+          "Where is asbestos commonly found at the University of Florida?",
+          "What building materials may contain asbestos?",
+          "How can I determine if a material contains asbestos?"
+        ]
+      },
+      "Indoor Air Quality": {
+        "description": "what's covered under indoor environmental policies and procedures",
+        "questions": [
+          "What are the recommended temperature and humidity levels for indoor spaces?",
+          "How do I report an indoor air quality complaint?",
+          "What is the process for investigating indoor air quality issues?",
+          "How can water intrusion affect indoor air quality?",
+          "What are the potential health risks of mold growth in water-damaged buildings?",
+          "How can I prevent mold growth after a water intrusion incident?"
+        ]
+      },
+      "Sick Building Syndrome": {
+        "description": "information on preventing and addressing sick building syndrome",
+        "questions": [
+          "What are the symptoms of Sick Building Syndrome?",
+          "How can I prevent Sick Building Syndrome in my workplace?",
+          "What are the common causes of Sick Building Syndrome?"
+        ]
+      },
+      "Building Related Illness": {
+        "description": "guidance on building related illnesses and their prevention",
+        "questions": [
+          "What are the differences between Sick Building Syndrome and Building Related Illness?",
+          "How can I identify potential building related illness hazards in my workplace?",
+          "What are the procedures for reporting a building related illness?"
+        ]
+      },
+      "Indoor Environmental Policy": {
+        "description": "details on the Indoor Environmental Policy and Procedures",
+        "questions": [
+          "Where can I find the Indoor Environmental Policy and Procedures document?",
+          "What are the key components of the Indoor Environmental Policy and Procedures?",
+          "How often is the Indoor Environmental Policy and Procedures updated?"
+        ]
+      },
+      "Animal Contact Medical Monitoring": {
+        "description": "what's covered under the University of Florida's medical monitoring program for individuals with animal contact",
+        "questions": [
+          "What are the requirements for participating in the animal contact medical monitoring program?",
+          "How do I register for the animal contact medical monitoring program?",
+          "What immunizations are required for individuals with animal contact?"
+        ]
+      },
+      "Program Information and Eligibility": {
+        "description": "information about the program and who is eligible to participate",
+        "questions": [
+          "Who is required to participate in the animal contact medical monitoring program?",
+          "What is the role of the Principal Investigator in ensuring compliance with the program?",
+          "How do visitors and volunteers participate in the animal contact medical monitoring program?"
+        ]
+      },
+      "Risk Assessment and Health Evaluation": {
+        "description": "the process of assessing and evaluating health risks for individuals with animal contact",
+        "questions": [
+          "What is the purpose of the risk assessment form for animal contact?",
+          "How often is a new risk assessment form required?",
+          "What factors are considered during the health evaluation for animal contact?"
+        ]
+      },
+      "Immunizations and Medical Requirements": {
+        "description": "specific medical requirements and immunizations for individuals with animal contact",
+        "questions": [
+          "What immunizations are required for individuals with animal contact?",
+          "How often do I need to get a tetanus immunization?",
+          "What is the purpose of serum banking for individuals who work with non-human primates?"
+        ]
+      },
+      "Compliance and Responsibilities": {
+        "description": "responsibilities and compliance requirements for individuals and Principal Investigators",
+        "questions": [
+          "What are the consequences of not complying with the animal contact medical monitoring program?",
+          "How do Principal Investigators ensure that all personnel are registered with the program?",
+          "What is the role of the Institutional Animal Care and Use Committee (IACUC) in verifying compliance?",
+          "What are my responsibilities as an employee for reporting workplace hazards?",
+          "How do I comply with occupational health and safety regulations in my workplace?",
+          "What are the consequences of non-compliance with occupational health and safety regulations?"
+        ]
+      },
+      "Asbestos Medical Monitoring": {
+        "description": "what's covered in medical examinations and consultations for employees engaged in asbestos work",
+        "questions": [
+          "What are the requirements for medical monitoring for employees working with asbestos?",
+          "How often are medical examinations required for employees engaged in asbestos work?",
+          "What is included in the medical examination for asbestos workers?"
+        ]
+      },
+      "Asbestos Work Eligibility": {
+        "description": "criteria for determining which employees are required to undergo medical monitoring for asbestos work",
+        "questions": [
+          "Which employees are required to undergo medical monitoring for asbestos work?",
+          "How are days worked with asbestos calculated for determining medical monitoring eligibility?",
+          "What is the permissible exposure limit for asbestos that triggers medical monitoring?"
+        ]
+      },
+      "Medical Examination Frequency": {
+        "description": "how often medical examinations are required for employees engaged in asbestos work",
+        "questions": [
+          "How often are medical examinations repeated for employees engaged in asbestos work?",
+          "Can medical examinations be required more frequently than annually for asbestos workers?",
+          "Who determines the frequency of medical examinations for asbestos workers?"
+        ]
+      },
+      "Medical Examination Components": {
+        "description": "what components are included in medical examinations for employees engaged in asbestos work",
+        "questions": [
+          "What is included in the medical and work history for asbestos workers?",
+          "What systems are emphasized in the medical examination for asbestos workers?",
+          "Are pulmonary function tests required for all asbestos workers?"
+        ]
+      },
+      "Occupational Medicine": {
+        "description": "Health risks and medical services for employees and students exposed to hazards during work and research",
+        "questions": [
+          "What medical services are available for employees exposed to health risks at work?",
+          "How do I schedule a medical monitoring appointment for occupational health concerns?",
+          "What vaccinations are required for employees working with animals?"
+        ]
+      },
+      "Animal Contact": {
+        "description": "Health and safety guidelines for employees and students working with animals",
+        "questions": [
+          "What precautions should I take when working with animals in a laboratory setting?",
+          "How do I report an animal bite or scratch at work?",
+          "What are the vaccination requirements for employees working with animals?"
+        ]
+      },
+      "Respirator Use": {
+        "description": "Guidelines and procedures for using respirators in the workplace",
+        "questions": [
+          "When is a respirator required in the workplace?",
+          "How do I properly fit and use a respirator?",
+          "What are the procedures for maintaining and cleaning respirators?",
+          "What are the requirements for wearing a respirator at work?",
+          "How often do I need to be fit tested for a respirator?",
+          "What are the procedures for cleaning and maintaining a respirator?"
+        ]
+      },
+      "Hearing Conservation": {
+        "description": "Programs and services for preventing and managing hearing loss in the workplace",
+        "questions": [
+          "What are the symptoms of hearing loss caused by workplace noise?",
+          "How often should I have my hearing tested if I work in a noisy environment?",
+          "What types of ear protection are available for employees working in loud areas?"
+        ]
+      },
+      "Biopath and Physicals": {
+        "description": "Medical evaluations and physicals required for employees working with biohazards or in high-risk jobs",
+        "questions": [
+          "What is a biopath physical and who is required to have one?",
+          "How do I schedule a physical for my job duties?",
+          "What are the requirements for medical evaluations for employees working with biohazards?"
+        ]
+      },
+      "Policy and Compliance": {
+        "description": "Understanding the policy and compliance requirements for indoor environmental quality in construction and renovation projects",
+        "questions": [
+          "What is the purpose of the indoor environmental quality policy?",
+          "How do I request an exception or variation to the IEQ policy?",
+          "What are the consequences of non-compliance with the IEQ policy?"
+        ]
+      },
+      "Responsibilities and Oversight": {
+        "description": "Understanding the roles and responsibilities of different parties involved in indoor environmental quality management",
+        "questions": [
+          "Who is responsible for maintaining oversight for policy adherence on affected projects?",
+          "What are the responsibilities of project designers, architects, and project managers in regards to indoor environmental quality?",
+          "How does Environmental Health and Safety investigate concerns related to indoor environmental quality?"
+        ]
+      },
+      "Sampling and Testing": {
+        "description": "Understanding the requirements for sampling and testing indoor environmental quality parameters",
+        "questions": [
+          "When is sampling for IEQ parameters required?",
+          "How do I arrange for pre-occupancy sampling by EH&S or a qualified outside firm?",
+          "What are the requirements for sampling plans and reports?"
+        ]
+      },
+      "Design and Construction": {
+        "description": "Understanding the design and construction requirements for indoor environmental quality",
+        "questions": [
+          "What are the design requirements for HVAC systems in new construction projects?",
+          "What types of filters and air cleaning devices are required in air handling units?",
+          "How do I ensure that the design and construction of my project meets the IEQ policy requirements?"
+        ]
+      },
+      "Water Intrusion Sources": {
+        "description": "Causes and origins of water intrusion into buildings",
+        "questions": [
+          "What are the most common sources of water intrusion into a building?",
+          "How can I identify the source of a roof leak?",
+          "What are the potential consequences of sewer line back-ups in a building?"
+        ]
+      },
+      "Flood Water Categories": {
+        "description": "Classification of flood waters based on contamination level",
+        "questions": [
+          "What is the difference between category 1 and category 2 flood water?",
+          "How is the level of contamination determined in flood water?",
+          "What are the health risks associated with category 3 flood water?"
+        ]
+      },
+      "Remediation and Response": {
+        "description": "Procedures for addressing and remediating water intrusion problems",
+        "questions": [
+          "What steps should I take immediately after discovering a water intrusion problem?",
+          "How do I determine the extent of remediation required after a pipe break?",
+          "What are the guidelines for removing moldy ceiling tiles after a water intrusion incident?"
+        ]
+      },
+      "Building Maintenance and Repair": {
+        "description": "Preventive measures and repairs to prevent water intrusion",
+        "questions": [
+          "How can I prevent roof leaks and condensation in my building?",
+          "What are the best practices for maintaining pipes and plumbing systems to prevent breaks?",
+          "How often should I inspect my building's envelope for signs of moisture intrusion?"
+        ]
+      },
+      "Pesticide Use and Safety": {
+        "description": "Guidelines and protocols for the safe handling and use of pesticides",
+        "questions": [
+          "What are the requirements for participating in the Medical Monitoring Program for Pesticide Users?",
+          "How often do I need to undergo medical monitoring if I handle pesticides?",
+          "What personal protective equipment is required when handling pesticides?"
+        ]
+      },
+      "Medical Monitoring Program": {
+        "description": "Health assessments and monitoring for individuals exposed to pesticides",
+        "questions": [
+          "What is the purpose of the Medical Monitoring Program for Pesticide Users?",
+          "How do I schedule a pre-exposure blood test?",
+          "What happens if I have abnormal blood test results?"
+        ]
+      },
+      "Regulations and Compliance": {
+        "description": "Laws and policies governing pesticide use and handling",
+        "questions": [
+          "What federal laws regulate pesticide use in the University of Florida?",
+          "How does the University ensure compliance with the Worker Protection Standards for Agricultural Pesticides?",
+          "What are the consequences of non-compliance with pesticide safety regulations?"
+        ]
+      },
+      "Employee Responsibilities and Resources": {
+        "description": "Roles and resources for employees handling pesticides",
+        "questions": [
+          "What training is required for employees who handle pesticides?",
+          "How do I obtain personal protective equipment for pesticide handling?",
+          "Who is responsible for paying for medical tests related to pesticide exposure?"
+        ]
+      },
+      "Diagnostic Laboratory and Medical Reports": {
+        "description": "Procedures for collecting and analyzing blood samples and medical reports",
+        "questions": [
+          "Where do I go to get my blood samples taken for pesticide exposure testing?",
+          "How are medical reports and records maintained and reviewed?",
+          "What happens if my blood test results are abnormal?"
+        ]
+      },
+      "Hearing Conservation Program": {
+        "description": "what's covered under the University of Florida's Hearing Conservation Program",
+        "questions": [
+          "What is the purpose of the Hearing Conservation Program at the University of Florida?",
+          "How do I know if my job duties require participation in the Hearing Conservation Program?",
+          "What is the process for getting a baseline audiogram as part of the program?"
+        ]
+      },
+      "Medical Monitoring Procedures": {
+        "description": "procedures for medical monitoring in the Hearing Conservation Program",
+        "questions": [
+          "What medical monitoring procedures are required for new employees in the Hearing Conservation Program?",
+          "How often do I need to get an audiogram as part of the program?",
+          "What happens if I miss a scheduled evaluation appointment?"
+        ]
+      },
+      "Eligibility and Enrollment": {
+        "description": "who is eligible and how to enroll in the Hearing Conservation Program",
+        "questions": [
+          "Who is eligible to participate in the Hearing Conservation Program?",
+          "How do I enroll in the Hearing Conservation Program if I'm a new employee?",
+          "What if I'm a current employee and my job duties change to require participation in the program?"
+        ]
+      },
+      "Program Administration": {
+        "description": "administration and coordination of the Hearing Conservation Program",
+        "questions": [
+          "Who is responsible for coordinating the Hearing Conservation Program?",
+          "How do I schedule an annual audiogram as part of the program?",
+          "What is the role of the UF OCCMED Clinic in the program?",
+          "Who manages the bloodborne pathogen medical monitoring program at the University of Florida?",
+          "How do I contact the Biological Safety Office for more information?",
+          "What are the responsibilities of individual departments in ensuring compliance with the program?",
+          "Who is responsible for administering the respiratory protection program?",
+          "What are the roles and responsibilities of EH&S in the program?",
+          "How do I contact the EH&S respiratory protection program administrator?"
+        ]
+      },
+      "Bloodborne Pathogen Compliance": {
+        "description": "Information on meeting OSHA standards for occupational exposure to bloodborne pathogens",
+        "questions": [
+          "What are the requirements for participating in the bloodborne pathogen medical monitoring program?",
+          "How do I access training for bloodborne pathogen exposure?",
+          "What happens if I don't comply with annual training requirements?"
+        ]
+      },
+      "Training and Education": {
+        "description": "Availability and requirements for training on bloodborne pathogen exposure and safety",
+        "questions": [
+          "What types of training are available for bloodborne pathogen exposure?",
+          "How often is training required for employees with occupational exposure?",
+          "Can I take bloodborne pathogen training online?"
+        ]
+      },
+      "Medical Monitoring and Healthcare": {
+        "description": "Access to medical care and monitoring for employees with occupational exposure to bloodborne pathogens",
+        "questions": [
+          "What medical monitoring services are available for employees with occupational exposure?",
+          "How do I access post-exposure healthcare services?",
+          "Is hepatitis B vaccination required for employees with occupational exposure?"
+        ]
+      },
+      "Commercial Driver License (CDL) Requirements": {
+        "description": "what's covered under CDL requirements for university employees",
+        "questions": [
+          "What are the CDL requirements for university employees?",
+          "How often do I need to undergo physical examinations for my CDL?",
+          "What types of drug tests are required for CDL holders?"
+        ]
+      },
+      "Pre-Employment Testing": {
+        "description": "pre-employment testing procedures for CDL holders",
+        "questions": [
+          "Do I need to undergo a physical examination before being hired as a CDL driver?",
+          "What types of tests are required before I can start driving a commercial vehicle?",
+          "How long are pre-employment test results valid?"
+        ]
+      },
+      "Ongoing Testing and Monitoring": {
+        "description": "ongoing testing and monitoring requirements for CDL holders",
+        "questions": [
+          "How often can I expect to be selected for random drug testing?",
+          "What triggers a reasonable suspicion drug test?",
+          "Do I need to undergo testing after being involved in an accident?"
+        ]
+      },
+      "Biological Agent Exposure": {
+        "description": "Procedures and guidelines for individuals potentially exposed to biological agents such as bacteria, viruses, and toxins",
+        "questions": [
+          "What are the requirements for participating in the Biohazards Medical Monitoring Program?",
+          "How do I determine if I need to participate in the Biohazards Medical Monitoring Program?",
+          "What are the consequences of not complying with the Biohazards Medical Monitoring Program?"
+        ]
+      },
+      "Medical Monitoring and Assessment": {
+        "description": "Procedures for conducting health assessments and medical evaluations for individuals participating in the Biohazards Medical Monitoring Program",
+        "questions": [
+          "What is the process for completing the Biohazards Medical Assessment Questionnaire?",
+          "Do I need to undergo a physical examination as part of the Biohazards Medical Monitoring Program?",
+          "How do I submit my completed Biohazards Medical Assessment Questionnaire?"
+        ]
+      },
+      "Program Administration and Costs": {
+        "description": "Guidelines and procedures for administering the Biohazards Medical Monitoring Program, including costs and payment responsibilities",
+        "questions": [
+          "Who is responsible for paying for the services provided by the Student Health Care Center?",
+          "How do I complete the Authorization Form for the Biohazards Medical Monitoring Program?",
+          "What are the consequences of not providing sufficient payment information on the Authorization Form?"
+        ]
+      },
+      "Departmental Responsibilities": {
+        "description": "Guidelines and procedures for departments to follow in order to ensure compliance with the Biohazards Medical Monitoring Program",
+        "questions": [
+          "What are the responsibilities of my department in ensuring compliance with the Biohazards Medical Monitoring Program?",
+          "How do I identify employees who are required to participate in the Biohazards Medical Monitoring Program?",
+          "What are the consequences of not ensuring compliance with the Biohazards Medical Monitoring Program?",
+          "How do departments identify employees who require respirators?",
+          "What is the purpose of the Health Assessment Management System (HAMS)?",
+          "How often should departments review and update their PPE assessments?"
+        ]
+      },
+      "Medical Monitoring": {
+        "description": "what's covered under the Medical Monitoring Program for Pesticide Users",
+        "questions": [
+          "What is the purpose of the Medical Monitoring Program for Pesticide Users?",
+          "How often do I need to complete a Medical Monitoring Health Questionnaire?",
+          "What tests are included in the comprehensive medical monitoring for pesticide users?",
+          "How do I obtain medical clearance to wear a respirator?",
+          "What medical conditions may prevent me from wearing a respirator?",
+          "Who provides medical evaluations for respirator wearers?",
+          "What medical monitoring is required for employees who work with human blood?",
+          "How often do I need to complete a biopath physical?",
+          "What are the respirator use renewal requirements?"
+        ]
+      },
+      "Pesticide Safety Training": {
+        "description": "training requirements for pesticide users",
+        "questions": [
+          "Is annual safety training mandatory for all pesticide users?",
+          "What topics are covered in the annual safety training for pesticide users?",
+          "How do I document my completion of pesticide safety training?"
+        ]
+      },
+      "Incident-Related Monitoring": {
+        "description": "procedures for handling accidental or suspected pesticide exposure",
+        "questions": [
+          "What should I do in case of an accidental pesticide exposure?",
+          "How will my blood test results be reviewed and followed up after an exposure incident?",
+          "What information will be documented after an exposure incident?"
+        ]
+      },
+      "Exit Testing and Procedures": {
+        "description": "exit testing and procedures for employees leaving the University",
+        "questions": [
+          "Do I need to undergo exit testing when leaving my job at the University?",
+          "What tests are included in the exit testing for pesticide users?",
+          "How will my exit test results be reviewed and used?"
+        ]
+      },
+      "Corrective Procedures and Enforcement": {
+        "description": "procedures for addressing unacceptable test results or exposure incidents",
+        "questions": [
+          "What happens if my blood test results are unacceptable?",
+          "How will EH&S investigate and address possible causes of pesticide exposure?",
+          "What recommendations can be made to rectify deficiencies in safety equipment use?"
+        ]
+      },
+      "Scientific Diving Eligibility": {
+        "description": "what's required to be eligible for scientific diving operations",
+        "questions": [
+          "What are the requirements for new divers to participate in scientific diving projects?",
+          "Do I need to have prior diving experience to join the scientific diving program?",
+          "What documents do I need to complete to be eligible for scientific diving?"
+        ]
+      },
+      "Diving Safety Standards": {
+        "description": "standards and protocols for ensuring safe diving operations",
+        "questions": [
+          "What safety standards does the University of Florida follow for scientific diving operations?",
+          "How does the university ensure that divers are protected during scientific diving projects?",
+          "What happens if a diver is involved in an accident during a scientific diving project?"
+        ]
+      },
+      "Diver Certification and Training": {
+        "description": "certification and training requirements for scientific divers",
+        "questions": [
+          "What kind of certification do I need to participate in scientific diving projects?",
+          "Do I need to have CPR/First Aid and Oxygen Provider training to dive?",
+          "How often do I need to renew my diving certification and training?"
+        ]
+      },
+      "Medical Monitoring and Evaluation": {
+        "description": "medical evaluation and monitoring requirements for scientific divers",
+        "questions": [
+          "Do I need to undergo a physical exam to participate in scientific diving projects?",
+          "What kind of medical evaluation is required for scientific divers?",
+          "How often do I need to undergo medical monitoring as a scientific diver?"
+        ]
+      },
+      "Automobile Liability Coverage": {
+        "description": "Information about the University's automobile liability coverage and insurance options",
+        "questions": [
+          "What is the limit of liability coverage for accidents involving University vehicles?",
+          "How do I purchase optional physical damage coverage for a University vehicle?",
+          "What is the process for filing a claim for an accident involving a University vehicle?"
+        ]
+      },
+      "Supplemental Automobile Coverage": {
+        "description": "Details about the supplemental coverage options for University vehicles, including deductibles and limits",
+        "questions": [
+          "What is the deductible for comprehensive coverage on a University vehicle?",
+          "How much personal injury protection is provided per person in the event of an accident?",
+          "What is the limit of auto medical payments per person for accidents involving University vehicles?"
+        ]
+      },
+      "Requesting and Reporting Coverage": {
+        "description": "Procedures for requesting coverage and reporting accidents or losses involving University vehicles",
+        "questions": [
+          "How do I request a quote for supplemental automobile coverage for a University vehicle?",
+          "What steps should I take immediately after an accident involving a University vehicle?",
+          "Who should I contact to report a loss or accident involving a University vehicle?"
+        ]
+      },
+      "Training and Fit Testing": {
+        "description": "Training and fit testing requirements for respirator wearers",
+        "questions": [
+          "What training is required for respirator wearers?",
+          "How often do I need to be fit tested for a respirator?",
+          "Who provides training and fit testing for respirator wearers?"
+        ]
+      },
+      "Insurance Coverage": {
+        "description": "What's covered under the State Risk Management Trust Fund for university-owned buildings and contents",
+        "questions": [
+          "What types of perils are covered under the university's insurance policy?",
+          "How do I report a property loss due to a covered peril?",
+          "What is the deductible for flood losses versus other perils?"
+        ]
+      },
+      "Property Claims": {
+        "description": "Procedures for handling and reporting property losses due to covered perils",
+        "questions": [
+          "What steps should I take immediately after a loss occurs due to a covered peril?",
+          "How do I document damages and repairs for a property claim?",
+          "Who do I contact to file a claim with the State Risk Management Trust Fund?"
+        ]
+      },
+      "Requesting Coverage": {
+        "description": "Process for obtaining insurance coverage for new or renovated buildings",
+        "questions": [
+          "What information is required to secure coverage for a new building?",
+          "Who needs to be notified when a new building is substantially completed or a building is scheduled for demolition?",
+          "What documents are needed to obtain a Certificate of Occupancy for a newly constructed building?"
+        ]
+      },
+      "Coverage Limits and Billing": {
+        "description": "Understanding coverage limits, billing, and payment for property losses",
+        "questions": [
+          "How are building and content limits determined and reviewed?",
+          "What is the effective date of coverage and billing for the fiscal year?",
+          "How are claims paid for covered damages?"
+        ]
+      },
+      "Health Assessments": {
+        "description": "Procedures and guidelines for health assessments for new and transfer employees",
+        "questions": [
+          "What are the health assessment requirements for new employees?",
+          "How often do I need to renew my health assessment for animal contact?",
+          "What is the purpose of post-employment health assessments?"
+        ]
+      },
+      "Employee Onboarding": {
+        "description": "Procedures for new and transfer employees to complete health assessments and medical monitoring",
+        "questions": [
+          "When should new employees complete their health assessments?",
+          "What happens if I don't complete my health assessment during the first two weeks of employment?",
+          "How do I ensure compliance with medical monitoring programs as a transfer employee?"
+        ]
+      },
+      "Training and Compliance": {
+        "description": "Training and compliance requirements for employees in specific programs",
+        "questions": [
+          "What training is required for employees who work with human blood?",
+          "How often do I need to complete hearing conservation training?",
+          "What are the consequences of not completing required training?"
+        ]
+      },
+      "Contact and Support": {
+        "description": "Contact information for questions and support related to health assessments and medical monitoring",
+        "questions": [
+          "Who do I contact if I have questions about health assessment requirements?",
+          "What is the phone number for the Occupational Health Consultant?",
+          "How do I get help with completing my health assessment?"
+        ]
+      }
+    },
+    "resources": {
+      "Laboratory Safety": {
+        "description": "Guidelines and procedures for ensuring safety in laboratory settings",
+        "questions": [
+          "What are the proper procedures for handling hazardous materials in a laboratory?",
+          "How do I report a laboratory accident or exposure?",
+          "What are the requirements for laboratory safety training?"
+        ]
+      },
+      "Biological Safety": {
+        "description": "Protocols and regulations for working with biological agents and materials",
+        "questions": [
+          "What are the guidelines for working with biohazardous waste?",
+          "How do I register a biological project?",
+          "What are the procedures for responding to a biological spill?"
+        ]
+      },
+      "Chemical Safety": {
+        "description": "Information and guidelines for handling and storing chemicals",
+        "questions": [
+          "What are the proper procedures for storing chemicals in a laboratory?",
+          "How do I dispose of hazardous chemical waste?",
+          "What are the requirements for chemical safety training?"
+        ]
+      },
+      "Fire Safety": {
+        "description": "Regulations and procedures for preventing and responding to fires",
+        "questions": [
+          "What are the procedures for evacuating a building in case of a fire?",
+          "How do I report a fire hazard or concern?",
+          "What are the requirements for fire extinguisher training?"
+        ]
+      },
+      "Environmental Health and Safety": {
+        "description": "Guidelines and regulations for maintaining a safe and healthy environment",
+        "questions": [
+          "What are the procedures for reporting an environmental hazard or concern?",
+          "How do I obtain a building permit or approval for a construction project?",
+          "What are the requirements for asbestos removal or abatement?"
+        ]
+      },
+      "Occupational Health": {
+        "description": "Information and resources for maintaining employee health and well-being",
+        "questions": [
+          "What are the procedures for reporting a work-related injury or illness?",
+          "How do I access employee health and wellness resources?",
+          "What are the requirements for occupational health and safety training?"
+        ]
+      },
+      "Emergency Preparedness": {
+        "description": "Guidelines and procedures for preparing for and responding to emergencies",
+        "questions": [
+          "What are the procedures for responding to a natural disaster or emergency?",
+          "How do I report an emergency or concern?",
+          "What are the requirements for emergency preparedness training?"
+        ]
+      }
+    },
+    "training": {
+      "Training Programs": {
+        "description": "Information about available training programs and resources",
+        "questions": [
+          "What types of training programs are offered by UF EH&S?",
+          "How can I access online training modules?",
+          "What is the purpose of the myTraining platform?"
+        ]
+      },
+      "Laboratory Safety": {
+        "description": "Guidelines and training for safe laboratory practices",
+        "questions": [
+          "What laboratory safety training is required for researchers?",
+          "How can I schedule in-person laboratory safety training?",
+          "What are the key safety protocols for laboratory settings?",
+          "What training is required for working with chemicals in a laboratory setting?",
+          "How often do I need to take the Chemical Hygiene Plan course?",
+          "What are the procedures for operating a departmental autoclave?"
+        ]
+      },
+      "myTraining Platform": {
+        "description": "Technical support and usage of the myTraining system",
+        "questions": [
+          "How do I track my training progress on the myTraining platform?",
+          "What types of training modules are available on myTraining?",
+          "How can I resolve technical issues with the myTraining system?"
+        ]
+      },
+      "In-Person Training": {
+        "description": "Scheduling and availability of in-person training sessions",
+        "questions": [
+          "How can I request in-person training for my department?",
+          "What are the requirements for attending in-person training sessions?",
+          "How often are in-person training sessions scheduled?"
+        ]
+      },
+      "Safety Resources": {
+        "description": "General information about safety resources and support",
+        "questions": [
+          "Who can I contact for safety training questions or concerns?",
+          "What safety resources are available for faculty and staff?",
+          "How can I report a safety incident or concern?"
+        ]
+      },
+      "Vehicle and Equipment Operation": {
+        "description": "guidelines for operating university vehicles and equipment, including vans and aerial lifts",
+        "questions": [
+          "What training is required to operate a 15 passenger van on university business?",
+          "How often do I need to take the Aerial-Lift Training course?",
+          "What are the requirements for operating a Mobil Elevated Work Platform (MEWP)?"
+        ]
+      },
+      "Hazardous Materials and Waste": {
+        "description": "procedures for handling and disposing of hazardous materials and waste, including biomedical waste",
+        "questions": [
+          "What training is required for handling biomedical waste on the main campus?",
+          "How often do I need to take the Biomedical Waste Training course?",
+          "What are the procedures for disposing of asbestos-containing materials?"
+        ]
+      },
+      "Workplace Safety and Emergency Response": {
+        "description": "guidelines for ensuring workplace safety and responding to emergencies, including fire safety and fall protection",
+        "questions": [
+          "What training is required for employees who may be exposed to fall hazards?",
+          "How often do I need to take the Fall Protection Training course?",
+          "What are the procedures for using a fire extinguisher in the workplace?"
+        ]
+      },
+      "Compliance and Regulatory Requirements": {
+        "description": "information on compliance with regulatory requirements, including bloodborne pathogens and controlled substances",
+        "questions": [
+          "What training is required for working with human blood or other potentially infectious materials (OPIM)?",
+          "How often do I need to take the Bloodborne Pathogens Training course?",
+          "What are the requirements for managing controlled substances in research laboratories?"
+        ]
+      }
+    },
+    "policies": {
+      "Laboratory Safety": {
+        "description": "Guidelines and protocols for ensuring safety in laboratory settings",
+        "questions": [
+          "What are the procedures for handling hazardous materials in a lab?",
+          "How do I properly dispose of biological waste in a laboratory?",
+          "What safety protocols should I follow when working with compressed gas cylinders in a lab?"
+        ]
+      },
+      "Transportation and Vehicle Safety": {
+        "description": "Policies and guidelines for safe operation of vehicles and transportation on campus",
+        "questions": [
+          "What are the rules for operating a golf cart on campus?",
+          "How do I safely transport passengers in a 12 or 15 passenger van?",
+          "What safety precautions should I take when riding a bicycle on campus?"
+        ]
+      },
+      "Environmental Health and Safety": {
+        "description": "Policies and guidelines for maintaining a healthy and safe environment on campus",
+        "questions": [
+          "What are the procedures for responding to a natural gas leak on campus?",
+          "How do I report an indoor environmental quality concern?",
+          "What are the guidelines for managing asbestos in university buildings?"
+        ]
+      },
+      "Equipment and Tool Safety": {
+        "description": "Guidelines and protocols for safely using equipment and tools on campus",
+        "questions": [
+          "What are the safety protocols for using powered industrial trucks, such as forklifts?",
+          "How do I properly use a portable power tool?",
+          "What safety precautions should I take when operating a chain saw?"
+        ]
+      },
+      "Animal and Wildlife Safety": {
+        "description": "Policies and guidelines for safely interacting with animals and wildlife on campus",
+        "questions": [
+          "What are the guidelines for having service animals in labs?",
+          "How do I safely interact with feral cats on campus?",
+          "What are the protocols for handling Q Fever/Coxiella burnetii in sheep, goats, and cattle?"
+        ]
+      },
+      "Construction and Renovation Safety": {
+        "description": "Policies and guidelines for ensuring safety during construction and renovation projects on campus",
+        "questions": [
+          "What are the safety protocols for trenching and excavation on campus?",
+          "How do I ensure compliance with building codes during a construction project?",
+          "What safety precautions should I take when performing hot work on campus?"
+        ]
+      }
+    },
+    "emergencies": {
+      "Laboratory Safety": {
+        "description": "Procedures and guidelines for ensuring safety in laboratories handling hazardous materials",
+        "questions": [
+          "What are the procedures for handling chemical spills in a laboratory?",
+          "How do I report a chemical spill or exposure in the workplace?",
+          "What personal protective equipment is required for responding to a chemical spill?"
+        ]
+      },
+      "Chemical Spill Response": {
+        "description": "Steps to take in the event of a chemical spill, including small and large spills",
+        "questions": [
+          "What are the steps for responding to a small chemical spill in a laboratory?",
+          "How do I contain and clean up a large chemical spill?",
+          "What is the procedure for disposing of hazardous waste after a chemical spill?"
+        ]
+      },
+      "Hazardous Waste Disposal": {
+        "description": "Procedures for disposing of hazardous waste, including chemical and radioactive materials",
+        "questions": [
+          "How do I dispose of hazardous waste from a laboratory?",
+          "What is the process for submitting a chemical waste pickup request?",
+          "Are there any special procedures for disposing of radioactive waste?"
+        ]
+      },
+      "Mercury Spill Response": {
+        "description": "Special procedures for responding to mercury spills, including small spills and cleanup methods",
+        "questions": [
+          "What is the preferred method for cleaning up a small mercury spill?",
+          "How do I use mercury absorbing powder to clean up a spill?",
+          "What precautions should I take when handling mercury and mercury-containing materials?"
+        ]
+      },
+      "Emergency Procedures": {
+        "description": "Procedures for responding to emergencies, including evacuations and contacting emergency services",
+        "questions": [
+          "What are the procedures for evacuating a building in the event of a chemical spill or other emergency?",
+          "How do I contact emergency services in the event of a hazardous materials incident?",
+          "What are the steps for isolating a workspace after a chemical spill?",
+          "What should I do in case of a life-threatening emergency on campus?",
+          "How do I report a non-life-threatening injury on University property?",
+          "Who should I call for emergency assistance on campus?"
+        ]
+      },
+      "Medical Assistance": {
+        "description": "guidelines for receiving medical help for various groups on campus",
+        "questions": [
+          "Where can I get medical assistance if I'm a student?",
+          "What are the procedures for faculty and staff to receive medical help?",
+          "How do visitors or guests receive medical assistance on University property?"
+        ]
+      },
+      "Injury Reporting": {
+        "description": "protocols for reporting injuries on University property",
+        "questions": [
+          "How do I report an injury that occurred on campus?",
+          "What information do I need to provide when reporting an injury?",
+          "Are there different procedures for reporting injuries for students versus faculty and staff?"
+        ]
+      }
+    },
+    "request-for-service": {
+      "Waste Management": {
+        "description": "Chemical and radioactive waste disposal and handling procedures",
+        "questions": [
+          "How do I schedule a chemical waste pickup?",
+          "What types of radioactive waste are accepted for disposal?",
+          "Can I dispose of hazardous waste in the regular trash?"
+        ]
+      },
+      "Laboratory Safety": {
+        "description": "Safe handling and use of laboratory equipment and materials",
+        "questions": [
+          "How do I get my lab equipment approved for use?",
+          "What are the procedures for handling a chemical spill in the lab?",
+          "Can I use a fume hood without proper training?"
+        ]
+      },
+      "Facilities and Equipment": {
+        "description": "Maintenance and approval of facilities and equipment",
+        "questions": [
+          "How do I request an ergonomic evaluation of my workspace?",
+          "What is the process for getting a new piece of lab equipment approved?",
+          "Can I use a drone in a university facility?"
+        ]
+      },
+      "Compliance and Reporting": {
+        "description": "Regulatory compliance and reporting requirements",
+        "questions": [
+          "How do I obtain a Certificate of Coverage report?",
+          "What are the procedures for reporting a lab accident or incident?",
+          "Can I get an EH&S sticker for my lab?"
+        ]
+      },
+      "Accessibility and Accommodations": {
+        "description": "Accessibility and accommodations for individuals with disabilities",
+        "questions": [
+          "How do I request an ADA assessment of my workspace?",
+          "What accommodations are available for individuals with disabilities in the lab?",
+          "Can I get assistance with lab equipment due to a disability?"
+        ]
+      },
+      "IT and Technical Support": {
+        "description": "Technical support and IT services for EH&S-related tasks",
+        "questions": [
+          "How do I submit an IT request form for EH&S-related issues?",
+          "Can I get technical support for EH&S software or systems?",
+          "What are the procedures for reporting an IT issue with EH&S equipment?"
+        ]
+      }
+    },
+    "report-to-ehs": {
+      "Injury Reporting": {
+        "description": "Guidance on reporting work-related injuries and illnesses for UF employees and volunteers",
+        "questions": [
+          "How do I report a work-related injury as a UF employee?",
+          "What is the deadline for reporting a work-related injury or illness?",
+          "Who should I contact to report a work-related injury or illness?"
+        ]
+      },
+      "Near-Miss and Safety Concerns": {
+        "description": "Procedures for reporting near-misses and safety concerns on UF properties",
+        "questions": [
+          "How do I report a near-miss or safety concern on campus?",
+          "What information should I include when reporting a near-miss or safety concern?",
+          "Who should I contact in case of a safety concern or near-miss?"
+        ]
+      },
+      "Emergency Procedures": {
+        "description": "Steps to take in case of an emergency or non-emergency situation on UF properties",
+        "questions": [
+          "What should I do in case of a medical emergency on campus?",
+          "How do I contact the UF Police Department in case of an emergency?",
+          "What is the phone number for the UF Police Department?"
+        ]
+      },
+      "Resources and Contacts": {
+        "description": "List of resources and contacts for reporting incidents, injuries, and safety concerns",
+        "questions": [
+          "Who can I contact for workers' compensation claims?",
+          "What is the phone number for the EH&S department?",
+          "How do I report a hazardous material spill on campus?"
+        ]
+      },
+      "Student and Non-UF Individual Reporting": {
+        "description": "Guidance on reporting incidents and injuries for students and non-UF individuals on UF properties",
+        "questions": [
+          "How do I report an incident or injury as a student on campus?",
+          "What information should I include when reporting an incident or injury as a non-UF individual?",
+          "Who should I contact to report an incident or injury as a visitor on campus?"
+        ]
+      }
+    }
+  }
+}

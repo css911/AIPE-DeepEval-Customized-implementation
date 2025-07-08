@@ -1,0 +1,14 @@
+{
+  "EHS": {
+    "about": {
+      "Contact Information": {
+        "description": "Details about how to get in touch with the Environmental Health & Safety division",
+        "questions": [
+          "What is the phone number for the EHS office?",
+          "What are the office hours for the EHS division?",
+          "How can I contact the EHS division by fax?"
+        ]
+      }
+    }
+  }
+}
